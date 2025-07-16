@@ -145,13 +145,51 @@ You are a behavioral finance expert. Analyze the following statement and determi
 - Extend to real-time decision support systems.
 
 ---
-
 ## 🛠️ Tech Stack
 
-- Python, PyTorch, HuggingFace Transformers
-- PEFT (LoRA)
-- Datasets: Essay Corpus, Pandora Corpus, Reddit
-- Visualizations: Matplotlib, Seaborn
+### 🔹 Languages & Core Libraries
+- **Python** – Core language for processing, modeling, and analysis
+- **PyTorch** – Deep learning framework
+- **Hugging Face Transformers** – For pretrained models like DistilBERT and RoBERTa
+
+### 🔹 Model Fine-Tuning & Optimization
+- **PEFT (LoRA)** – Low-Rank Adaptation for efficient transformer fine-tuning  
+  - **LoRA Config:** `rank=8`, `alpha=16`, target layers: `q_lin`, `v_lin`
+
+### 🔹 Datasets Used
+- **Essay Corpus** – Personality classification using Big Five (OCEAN) traits
+- **Pandora Corpus** – Large-scale dataset with OCEAN scores (0–100)
+- **Reddit Financial Corpus** – Behavioral bias detection from user-generated financial posts
+
+### 🔹 Behavioral Bias & Personality Analysis
+- **Hybrid Classification Framework** – Combination of rule-based and model-based analysis
+- **Bias Indicators** – Traits like loss framing, emotional tone, risk aversion, temporal context
+- **Prompt Engineering** – Multi-experiment design for Loss Aversion classification (e.g., keyword matching, semantic expansion)
+
+### 🔹 Visualization
+- **Matplotlib & Seaborn** – Graphs for trait distributions and bias intensity
+- **Plotly (optional)** – Interactive charts
+- **WordCloud** – Visualizations of frequent keywords and bias indicators
+
+### 🧠 (Planned) Chatbot Integration – *Under Development*
+> A conversational agent that detects personality traits and behavioral biases based on user input.
+
+**Planned Technologies:**
+- **LangChain + LangGraph** – For multi-step conversational flows
+- **OpenAI GPT-4** – For intelligent response generation and bias/trait inference
+- **Custom Flow Logic** – Bias-specific branching (e.g., user shows loss aversion → follow-up questions → profiling)
+
+🧭 Flow:  
+`User → Initial Questions → Bias & Trait Detection → Follow-up Prompts → Summary Output`
+
+### 🔹 Evaluation & Testing
+- **Scikit-learn** – Evaluation metrics (accuracy, F1-score, confusion matrix)
+- **Manual Annotation Support** – For qualitative validation of bias classification
+
+### ⚙️ Tooling & Development
+- **Jupyter Notebook / Google Colab** – For experimentation and prototyping
+- **Pandas & NumPy** – Data processing and transformation
+
 
 ---
 
