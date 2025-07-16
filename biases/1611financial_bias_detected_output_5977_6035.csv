@@ -1,0 +1,548 @@
+post_id,user_name,input_text,detected_biases,reasoning_paragraph,bias_summary
+16l3ii3,thriftyberry,"Life insurance - does it make sense to purchase it for burial expenses
+
+Step dad is $85 a month for 30k policy
+
+Mom is $35 a month for $15k policy
+
+They have about $140k in cash and roth IRA. 
+
+If they both quit working, the social security is barely enough to cover expenses. Was thinking to get rid of the life insurance because they might have enough cash to pay burial. I will pay for my mom, no problem at all (not him). ","Loss Aversion, Status Quo Bias, Affect Heuristic, Mental Accounting","The statement reveals several biases. The consideration of dropping life insurance due to having sufficient cash to cover burial expenses exhibits Loss Aversion, as the individual is hesitant to let go of the insurance, potentially due to the fear of loss. The fact that they are willing to pay for their mom's but not step-dad's insurance suggests an Affect Heuristic, where emotions are influencing the decision. Additionally, the separate mental accounts for the life insurance and the cash/IRA holdings indicate Mental Accounting, where the individual is treating different assets as if they were separate accounts. Lastly, the default assumption to maintain the status quo (keeping the insurance) and only considering a change due to a specific circumstance (having enough cash) indicates Status Quo Bias.","The individual exhibits a tendency to make emotionally-influenced and account-based financial decisions, often prioritizing the status quo and fearing losses."
+ojqym6,throwaway_4829890973,"I have about $25,000 to invest -- should I go with a target date fund or a three or four-fund portfolio?
+
+Hello! 
+
+First-time poster here. I (25m) have about $25,000 saved that I would like to invest. I already have a robust emergency fund and no debt whatsoever. Would you suggest putting that all into a target date fund (probably VTTSX), or should I consider creating a three-fund or four-fund portfolio? I've read that the best approach would be to have a domestic stock market index or ETF, an international stock market index or ETF, and a bond market index or ETF. VOO also seems like a good option. But what about the fourth fund? Maybe I should consider VNQ or another REIT?
+
+And one final question: Do you prefer ETFs or index funds?
+
+Open to any suggestions you might have with regard to index funds and the percentage I should allocate to each. I've been doing a lot of my own research, but, again, I am new to this and the sheer range of options at my disposal are a little overwhelming. 
+
+Thank you all so much!",None,"The statement does not exhibit any clear evidence of financial decision-making biases. The individual is seeking advice on how to invest $25,000, considering a target date fund versus a multi-fund portfolio, and is open to suggestions on index funds and allocation percentages. They mention doing their own research but express feeling overwhelmed by the range of options, which indicates a neutral and inquiring attitude. There is no indication of overconfidence, confirmation bias, or anchoring, as they do not appear to be swayed by a particular perspective or fixated on a specific investment. Additionally, there is no evidence of loss aversion, herd behavior, or other biases, as they seem to be genuinely seeking guidance and considering different options.","The user exhibits no apparent biases, demonstrating a neutral and inquiring attitude towards investment decisions."
+pf03mk,throwaway_4829890973,"Am I required to pay capital gains tax if I take my money out of one ETF and put it into another?
+
+Hi, all!
+
+I recently inherited a large sum of money when my uncle died. I anticipate using a small portion of that to help with rent while I'm in law school, but I'm planning to put the vast majority of that money into a target-date fund or ETFs (probably VOO/VTI + VXUS or VT) and saving that for retirement.
+
+Here's my question, though: If I put all of my money into an ETF or combination of ETFs now, will I incur tax liability if I decide to take the money out of those ETFs and put it into other ETFs in the future? Let's say I put the money into VT and let it sit for five years, but eventually decide to put the money into a higher-risk ETF, for example. Would I need to pay capital gains tax? Because, if that's the case, I'm more inclined to put the money away in an ETF and forget about it for the next forty years or so.
+
+Thanks for any guidance you're able to give on this!","Loss Aversion, Status Quo Bias, Present Bias","The user's inquiry about capital gains tax when switching between ETFs reveals several biases. The concern about incurring tax liability if they switch from one ETF to another suggests Loss Aversion, as they are trying to avoid potential losses. Additionally, their consideration of putting the money into an ETF and ""forgetting about it for the next forty years or so"" indicates a Status Quo Bias, where they prefer to maintain the current situation (doing nothing) rather than making changes. Furthermore, their willingness to potentially lock their money into an ETF for an extended period to avoid taxes demonstrates Present Bias, where they prioritize short-term benefits (avoiding taxes) over long-term goals.","The user exhibits a cautious and risk-averse approach to financial decision-making, driven by a desire to avoid potential losses and maintain the status quo, while also prioritizing short-term benefits over long-term goals."
+pjdc3k,throwaway_4829890973,"I'd like to invest most of the money in my savings account. What ETF would you invest in if you were me? (Please read for further details.)
+
+Hello!
+
+I'm a 25 year-old recent college graduate. I have about --- saved, which I partly earned working my way through college and partly inherited when my uncle passed away. I am fortunate to be debt-free -- no student loans, no credit card debt, etc., and I am very financially conservative overall. I realize that this money provides me a fantastic opportunity to build further wealth, but I admittedly don't know as much about investing as I would like (I am working on this, though!). So, I think my strategy will be to put $5,000 to $10,000 of that in a high-yield savings account in case of a rainy day, and the rest I would like to put in an ETF. I've read that an S&amp;P 500 index fund would provide respectable returns, so I'm considering putting the --- in VOO. It seems like VT or VTI/VXUS would also be good options. At any rate, I don't want the money to sit in my low-interest savings account too much longer!
+
+I will be meeting with a financial advisor next week to review my options, but I am also curious to get some input from the people in this sub.
+
+Any suggestions you might have would be greatly appreciated. And, if you've got other ideas that you feel could help me maximize this more efficiently than an ETF, those suggestions would also be appreciated!","Loss Aversion, Status Quo Bias, Authority Bias","The statement exhibits Loss Aversion as the individual expresses a desire to keep a significant portion of their savings in a high-yield savings account, indicating a preference for preserving capital over taking on potential investment risk. Status Quo Bias is also present, as the individual seems inclined to maintain the current allocation by only slightly adjusting their savings into an ETF, rather than making a more substantial shift. Furthermore, the fact that they are seeking advice from both a financial advisor and an online community suggests a degree of Authority Bias, as they appear to be placing significant weight on the opinions of experts and others, potentially more than their own research and judgment.","The user tends to prioritize capital preservation and seeks validation from authorities, indicating a cautious and potentially biased approach to financial decision-making."
+pmkl4w,throwaway_4829890973,"Trade in high-mileage used car or keep it until it stops running?
+
+Hello!
+
+I have a 2016 Honda Civic, paid in full. While it runs great at the moment (the only expense I've ever incurred with this car is routine upkeep -- oil changes, tires, rotations, etc.), it has high miles because I used it to take a lot of road trips when I was in college and commuted on a regular basis. It's between 150,000 and 160,000, last I checked. In your opinion, would it be a better financial decision to trade it in now while it's at least got \*some\* trade-in value and before I have to start shelling out for expensive repairs, or keep it as long as possible? I can afford a car payment, but I'd obviously rather not have one unless it's the more financially optimal option.
+
+Thanks so much!","Sunk Cost Fallacy, Status Quo Bias","The user's statement reveals a potential Sunk Cost Fallacy, as they seem to be holding onto the car due to its past use and the fact that they have already incurred costs (e.g., road trips, commuting), even though those costs are irrelevant to the current decision. Additionally, the user's inclination to keep the car ""as long as possible"" suggests a Status Quo Bias, where they prefer to maintain the current state (owning the car) rather than changing it (trading it in), even if it might not be the most financially optimal decision. The user's emphasis on not wanting a car payment unless necessary also implies a reluctance to change their current situation.","The user tends to prioritize maintaining their current situation and avoiding changes, while also being influenced by past investments, rather than making a purely financially optimal decision."
+rtfs7u,throwaway_4829890973,"Should I wait until after I sign a new lease to request another credit card?
+
+Hi!
+
+I'm in my mid-twenties, financially secure but a little late in the game in terms of building my credit. I have one credit card for which I was approved last August (a very basic Capital One Platinum card which has since been upgraded by Capital One), and, now that I've got \~four months of on-time payments, I'd like to apply for another credit card to increase available credit and decrease credit utilization.
+
+But I'm also looking for a new apartment, which I'm hoping to move into within the next month. I understand that seeking credit can reflect poorly on my credit score, so should I wait to get another credit card until after I finish applying for apartments?
+
+Thanks!
+
+Edit: I have a 718 right now, if that matters.","Present Bias, Status Quo Bias","The user is demonstrating Present Bias by prioritizing their immediate goal of applying for another credit card over the potential long-term consequences on their credit score. They are also showing Status Quo Bias by being hesitant to deviate from their current situation (waiting to apply for another credit card) and instead considering delaying the application until after signing a new lease, essentially maintaining the status quo. This cautious approach indicates that the user is averse to changing their current situation and is prioritizing stability over potential long-term benefits.","The user exhibits a tendency to prioritize short-term goals and stability, reflecting Present Bias and Status Quo Bias in their financial decision-making."
+rtvo54,throwaway_4829890973,"Renting an apartment with no current income?
+
+Hello!
+
+I need to move to a new city to take classes for a teaching certification I'm working on. I'm not currently employed (as I've been studying full-time), but I have a substantial savings that would allow me to pay the entire year's rent upfront, if necessary. Is it possible to secure a lease without having an income \*but\* having savings with which to pay rent? I'm a little concerned about my prospects for securing an apartment without having an income, so any suggestions on how to navigate this situation would be appreciated.
+
+Thank you so much!","Status Quo Bias, Present Bias","The individual in the statement is considering renting an apartment without having a current income, but with a substantial savings to cover the rent. This situation requires careful consideration of future financial stability, but the individual's primary concern seems to be securing an apartment immediately, as evidenced by their concern about ""securing an apartment without having an income."" This focus on the present situation and the desire to maintain their current plans (moving to a new city for classes) suggests a Status Quo Bias, where the individual is inclined to maintain their current trajectory. Additionally, the fact that they are willing to use their savings to pay rent upfront implies a Present Bias, where they are prioritizing short-term needs over long-term financial stability.","The user exhibits a tendency to prioritize short-term needs and maintain their current plans, indicating biases towards maintaining the status quo and prioritizing present needs over future stability."
+rwhbnn,throwaway_4829890973,"In your opinion, does it make more financial sense to drive a car until the wheels fall off or trade in periodically?
+
+Hello! Quick question for you all.
+
+I have a 2016 Honda Civic, which I love. I got it when I was in college and it's treated me very well. It's been on a lot of road trips with me and as a result it's got about 160,000 miles on the odometer. Despite the high miles, it still runs well, and the only expenses I've incurred with it are routine upkeep (tires, brakes, fluids, etc.). And the body is still in beautiful shape.
+
+My question is this -- does it make more financial sense to trade in periodically, or should I run my Honda until the wheels fall off? A local dealership estimates I could get around $12,000-$15,000 for it given the current state of the car market, and I could afford to level up to a newer Civic or Accord with lower miles. On the other hand, I could probably continue to drive this car for another five years (or more), though the trade-in value by then will probably be next to nothing.
+
+So, which scenario makes more financial sense? Trade in and bank a good chunk of money to put toward a newer model with fewer miles, or run the car until it dies, at which time I'll have to buy a new car without the benefit of being able to trade in my Civic for the cost of half the new car?
+
+I'd appreciate suggestions. Thanks so much!","Status Quo Bias, Sunk Cost Fallacy, Loss Aversion","The user's statement reveals several biases. The user's affection for their current car and their emphasis on its reliability and good condition suggest a Status Quo Bias, as they seem inclined to maintain the current situation rather than change to a new car. Additionally, the user's mention of the car's past experiences and its ""treating me very well"" implies a Sunk Cost Fallacy, as they appear to be factoring in past investments (emotional and financial) into their decision. The user's concern about trading in the car and ""not getting the benefit of being able to trade in my Civic for the cost of half the new car"" also indicates Loss Aversion, as they seem to be focused on avoiding losses rather than solely considering the financial implications of each option.","The user exhibits a tendency to favor the status quo, overvalue past investments, and fear losses, which influences their financial decision-making."
+ryvmez,throwaway_4829890973,"My car was totaled and now I'm (unfortunately) in the market for a new one. Should I buy used or new, and should I finance or pay in full?
+
+Hi!
+
+Earlier this week, I allowed my mom to borrow my car. As it turns out, this was a big mistake. On her way home, she got into an accident and totaled the car (she was fine, thankfully). My car was a 2016 Honda Civic -- cheap to maintain, reliable, and fully paid off. Needless to say, I was really hoping not to have a car payment for the foreseeable future -- especially given the fact that I recently graduated from college and wanted to put all the money I possibly could toward a downpayment on a home and invest the rest.
+
+But, unfortunately, I am now in the market for another car. My insurance payout will help, but my car had high miles, and therefore there's still going to be at least a $10,000 gap between the value of my old Civic and the value of a newer model (I will probably buy a Honda Insight, which is essentially a hybrid version of the Civic). Obviously, this is a terrible time to be in the market for a car, as prices have inflated at least 35% on used cars.
+
+So, given this less-than-ideal situation, what is the most financially responsible thing to do? I can either pay for a new Honda that will likely last a decade or more, or I can pay slightly less for a used Honda that may not have been maintained properly by the previous owner and may not last as long due to previous use. Also, I can afford to pay for the car in full, but I think it may be more financially prudent to secure a low APR loan and invest the money I would otherwise be spending to pay the car off in full.
+
+Advice would be greatly appreciated. Thank you all so much.
+
+EDIT: I can get a 2022 Honda Insight for $26,500 or a used model for a couple thousand dollars less. Even the equivalent of what I had (2016 Honda Civic) would be around $20,000 for a model with under 50,000 miles. Really an awful time to be in the market for a car.","Loss Aversion, Present Bias, Framing Effect","The user's decision-making process is influenced by several biases. Loss Aversion is evident as the user is emotionally attached to not having a car payment, indicating a preference to avoid losses (in this case, the loss of financial flexibility) over potential gains. Present Bias is also present, as the user prioritizes short-term financial relief over long-term benefits, considering paying in full for a car to avoid debt. Additionally, the Framing Effect is observed in how the user frames the situation as a ""terrible time"" to be in the market for a car due to inflated prices, which may lead them to make a hasty decision based on the current market situation rather than a thorough analysis of their financial goals.","The user exhibits a tendency to prioritize short-term financial relief and avoid losses, often at the expense of long-term financial prudence, indicating a present-biased and loss-averse approach to financial decision-making."
+s83c80,throwaway_4829890973,"My car was recently totaled and now I'm in the market for another. However, I am leaving the country soon, which complicates things a little. What do you think of this idea?
+
+Hi, everyone!
+
+Unfortunately, my car was recently totaled by another driver, and I am now in need of another car for everyday use. However, I will likely be leaving the country for an extended period in four months, which complicates this situation. I can either buy a used car (Honda) at an inflated price, considering the current state of the used car market, or I can opt for something a bit more unconventional: I could buy a new Honda Accord, use it for a few months, and then sell it back (either to a dealership or on the private market) when it comes time to leave.
+
+Considering the current value of used cars (which I don't imagine will go down much in only a few months), I think this may be a decent way for me to give myself a means of transportation while recouping most of my money down the road.
+
+Is this something that would be financially wise, in your opinion, or do you think used car values will start to deflate sooner than April?
+
+Thanks!","Anchoring, Present Bias, Sunk Cost Fallacy, Affect Heuristic","The user's consideration of buying a new Honda Accord and selling it back in a few months suggests that they are influenced by the current situation and prioritizing short-term convenience over long-term financial implications, which is indicative of Present Bias. Additionally, their assumption that used car values will not decrease significantly in a few months may be an example of Anchoring, as they are basing their expectations on current values. The user's openness to an unconventional approach, such as buying a new car and selling it back, may also be driven by the Affect Heuristic, where they are making a decision based on how they feel about the situation rather than a thorough analysis of the costs and benefits. Furthermore, the user's reluctance to consider the potential depreciation of the new car and the costs associated with buying and selling it may be related to the Sunk Cost Fallacy, where they are not fully accounting for the potential losses.","The user exhibits a tendency to prioritize short-term convenience and current market values, while underestimating potential long-term costs and depreciation, indicating a bias towards present-focused and affect-driven decision-making."
+sb4uva,throwaway_4829890973,"My car was totaled by another driver, so I am in the market for another car. Should I buy a dramatically overpriced (but cheaper) used car, or a slightly more expensive new car?
+
+My 2016 Honda Civic (160,000 miles) was totaled by another driver recently, so I am unfortunately in the market for another car. I am anticipating a \~$15,000 payout from the insurance company -- which would be enough to get me into another high-mileage Civic, but I'm not sure it would be wise to pay for a used car that has 160,000 miles already. 
+
+**So, I am left in a bind. As you are probably aware, used car prices have increased 35% over the last year. That in mind, I have found several 2016-2018 Honda Accords with \~50,000-70,000 miles for between $23,000 and $26,000 OTD, while a new Accord with zero miles would cost me closer to $30,000 OTD.** 
+
+The same is true of Civics: used Civics with \~75,000 miles are often selling for only slightly less (and sometimes more!) than \*new\* Civics, so I would be in the same situation if I decided to buy another Civic (but I would prefer an Accord).
+
+I am also factoring anticipated depreciation into my calculus. As the used car market begins to cool down over the next year or two, I would expect a used Accord priced at $24,000 now to lose a third of its value or more, which is a huge waste of money and probably even worse in terms of depreciation than a new Accord.
+
+I know buying new is typically frowned upon in this sub, but considering the state of the used car market right now, which do you think is the better choice?","Loss Aversion, Anchoring, Present Bias, Sunk Cost Fallacy","The statement exhibits several biases. Loss Aversion is evident as the user is hesitant to buy a used car with high mileage, fearing depreciation and potential losses. Anchoring is present as the user references the $15,000 insurance payout, which serves as an anchor for their budget and influences their consideration of used cars. Present Bias is observed as the user prioritizes short-term costs and immediate depreciation concerns over long-term benefits. Additionally, Sunk Cost Fallacy is subtly present as the user mentions their totaled 2016 Honda Civic, which may be influencing their preference for a similar model, even though the sunk cost (the lost car) should not factor into their current decision.","The user exhibits a loss-averse and present-focused mindset, influenced by recent events and short-term market trends, leading to a cautious and potentially suboptimal decision-making process."
+sf991d,throwaway_4829890973,"What's the wiser decision: Pay car in cash to avoid fixed-rate debt, or take a 1.9% APR car loan and risk market volatility and invest most of the money in VOO?
+
+I'm purchasing a car next week. I've been offered a 1.9% APR loan, which I understand is very good. I'm considering making a small downpayment and investing the rest in VOO or another solid ETF, but concerned about the short-term volatility of the market vs. fixed-rate debt I'll be incurring (it's probably unlikely, but possible that the ETF could underperform the 1.9% interest rate of the loan). 
+
+Keen to hear opinions on which would be the wiser decision.","Loss Aversion, Overconfidence, Framing Effect, Mental Accounting","The statement exhibits several biases. The author is concerned about ""fixed-rate debt"" and ""short-term volatility of the market,"" indicating a loss aversion bias, as they are prioritizing avoiding potential losses over potential gains. Additionally, the author seems overconfident in their ability to make a wise investment decision, as they consider investing in a ETF like VOO, which may not outperform the 1.9% interest rate of the loan. The framing effect is also present, as the author presents the 1.9% APR loan as ""very good,"" which may be influencing their perception of the loan's attractiveness. Lastly, mental accounting is evident, as the author separates their financial decision into distinct accounts (the car loan and the ETF investment), rather than considering the overall financial implications.","The user tends to exhibit a cautious and overly optimistic approach to financial decision-making, often prioritizing avoiding losses and framing information in a way that influences their perceptions."
+sfvbg2,throwaway_4829890973,"I have a large sum of money that I want to invest. Would I be relatively safe to put it all in VTI and let it sit?
+
+Hi, everyone!
+
+I'm a recent college graduate and recently was fortunate to receive $160,000. I am debt-free (except for a small $2,500 car loan at 1.9% APR that I'm using to build credit) and have a substantial emergency fund of $15,000, plus additional savings of $25,000. My 401k and IRA are maxed out for the year.
+
+The money has been sitting in a savings account since I received it because I'm not sure which ETF (or ETFs) to put the money in. I'll probably either throw all of it ($175,000) in VTI, or put 60% of it in VTI and 40% in VSUX.
+
+I've spent countless hours researching how to invest this money and I'm honestly ready to be done with it. Thoughts on this plan?
+
+Thanks!
+
+P.S. -- I'm a little concerned about the potential for a stock market crash in the near future. I've heard a lot of speculation in the media about this. I know it's generally foolish to try to time the market, but I'd feel pretty dumb if I invested $175,000 in the stock market right before a crash. Should I wait to invest, or just make the jump now?","Loss Aversion, Overconfidence, Anchoring, Status Quo Bias, Recency Bias, Present Bias","The individual exhibits Loss Aversion as they are extremely cautious about investing their large sum of money, fearing a potential stock market crash and the associated losses. Their Overconfidence is evident in their claim of having spent ""countless hours researching"" and feeling ready to make a decision, which may lead them to overlook potential risks. The Anchoring effect might be at play as they consider investing in VTI and VSUX, possibly due to familiarity or readily available information. The individual's inclination to keep the money in a savings account, doing nothing, indicates a Status Quo Bias. Recency Bias is also present, as they mention recent media speculation about a potential stock market crash, which seems to be influencing their decision. Lastly, Present Bias is evident in their desire to ""be done"" with the investment decision, prioritizing short-term relief over long-term financial goals.","The individual tends to exhibit a conservative and indecisive approach to investing, driven by a fear of losses and a desire for immediate resolution, leading to a biased decision-making process."
+sfve78,throwaway_4829890973,"I have money that I'd like to invest. Would I be reasonably safe to put it all in VTI and let it sit?
+
+Hi, everyone!
+
+I'm a recent college graduate and recently was fortunate to receive $160,000. I am debt-free (except for a small $2,500 car loan at 1.9% APR that I'm using to build credit) and have a substantial emergency fund of $15,000, plus additional savings of $25,000. My 401k and IRA are maxed out for the year.
+
+The money has been sitting in a savings account since I received it because I'm not sure which ETF (or ETFs) to put the money in. I'll probably either throw all of it ($175,000) in VTI, or put 60% of it in VTI and 40% in VSUX.
+
+I've spent countless hours researching how to invest this money and I'm honestly ready to be done with it. Thoughts on this plan?
+
+Thanks!","Overconfidence, Status Quo Bias, Mental Accounting","The individual in the statement displays Overconfidence by claiming they have spent ""countless hours researching"" and feeling ""ready to be done"" with the investment decision, implying an unwarranted faith in their own abilities. They also exhibit Status Quo Bias by being inclined to keep the money in a savings account, doing nothing, and only considering two simple investment options (VTI or a split between VTI and VSUX), which suggests a preference for maintaining the current state. Additionally, Mental Accounting is present as the individual seems to be treating the $160,000 as a separate pool of money, distinct from their other savings and retirement accounts, and considering investing it all in a single ETF or a simple split, rather than taking a holistic view of their overall financial situation.","The individual exhibits a tendency to be overly self-assured in their investment decisions and favors inaction, while also compartmentalizing their wealth into separate accounts."
+sq6jih,throwaway_4829890973,"Will closing a new credit card negatively impact my credit score?
+
+At the end of January, I applied and was approved for a Discover credit card. I have a good credit score (757) and already have several open credit cards, so I didn't think there'd be any issues. However, I was contacted by Discover yesterday and asked to consent to an IRS tax return check. I'm very uncomfortable with a credit card company thumbing through my tax returns, so I politely declined and closed my account.
+
+As I said, the account was less than two weeks old, and I never actually used it. Will closing my Discover card hurt my credit score?","Loss Aversion, Regret Aversion, Affect Heuristic","The user's decision to close the Discover credit card account immediately after being asked to consent to an IRS tax return check suggests that they are influenced by the Affect Heuristic, prioritizing their emotional discomfort over potential long-term financial implications. Additionally, the user's concern about the potential impact on their credit score indicates Loss Aversion, as they are trying to avoid a potential loss (a decrease in their credit score). The user's swift action to close the account also implies Regret Aversion, as they are attempting to avoid potential regret associated with allowing the credit card company to access their tax returns.","The user exhibits a tendency to prioritize short-term emotional comfort over long-term financial considerations, while also being driven by a desire to avoid potential losses and regret."
+u8xv0w,throwaway_4829890973,"I need to offload a car that is almost brand-new. Should I sell it back to the dealership or try a private-party sale?
+
+Hi!
+
+I bought a new Honda Accord back in January for $1,000 below sticker price (which shocked me at the time). Almost four months later, it has approximately 3,500 miles and I need to sell it because I will be moving out of the country (I did not know about this when I purchased the car). I have a couple of months to offload the car, so I am not desperate to take the first offer someone gives me, and I would ideally like to sell the car at as little a loss as possible. Is this reasonable given the state of the used car market? And, additionally, I had planned to take a road trip with my family next month before I move abroad -- would you advise me to rent a car, or would the devaluation of an additional \~3,000 miles on the odometer be negligible?
+
+Thanks!","Loss Aversion, Sunk Cost Fallacy, Status Quo Bias","The statement exhibits Loss Aversion as the individual is highly concerned about selling the car at ""as little a loss as possible,"" indicating a preference to avoid losses over maximizing gains. Additionally, the Sunk Cost Fallacy is present as the person is considering taking a road trip with their family in the car, which would add approximately 3,000 miles to the odometer, thereby potentially increasing the loss on the car's resale value. This behavior suggests that they are factoring in the ""sunk cost"" of the car's purchase price and trying to minimize further depreciation. The Status Quo Bias is also evident as the individual seems inclined to maintain the current situation (not adding more miles to the car) rather than taking an alternative action (renting a car for the trip), which would potentially be more cost-effective.","The user tends to exhibit loss-averse and status quo-preserving behavior, often prioritizing the minimization of losses over maximizing gains and favoring the maintenance of the current situation over alternative actions."
+yfv28f,throwaway_4829890973,"My uncle unfortunately passed recently and left me with a decent chunk of money. I don't want to squander it, so would I be better off investing in properties or an index fund?
+
+Hi!
+
+As I said in the title, my uncle recently passed and as a consequence I have been left with a decent chunk of money (around $200,000). I'm not exactly sure what to do with it yet, but I am certain that I want to use it to build further wealth rather than squander it by letting it sit in a bank account or some other low-interest vehicle. 
+
+I have thought about putting it all into an ETF (such as VTI), especially considering I'd be buying at a significant discount relative to when it was selling for $240/share last year. However, my preference would be to use a significant portion of the money to build a stream of passive income, probably by investing in a rental property or two. 
+
+Having a source of monthly income would be ideal because I am currently a student and don't have much of an income to speak of. 
+
+Any advice would be welcome! Very interested to hear feedback and to know what others would do if you were in my situation.
+
+Thanks!","Loss Aversion, Anchoring, Present Bias","The statement exhibits several biases. Loss aversion is evident as the individual is driven by the fear of ""squandering"" the inherited money, indicating a desire to avoid losses. Anchoring is also present, as the person references the past price of the ETF ($240/share) as a benchmark for a good investment opportunity, which may influence their perception of the current value. Additionally, present bias is observed, as the individual prioritizes generating immediate passive income through rental properties, which may not be the most optimal long-term strategy, over potentially more lucrative but less immediate options like investing in an index fund.","The user tends to make emotionally-driven financial decisions, prioritizing short-term gains and loss avoidance over potentially more optimal long-term strategies."
+rvtcip,throwback656,"Is it a pragmatic decision to park your emergency fund in I-series bonds?
+
+So I usually have a 10K USD rainy day/emergency fund. The rest of my money is parked in ETFs. As soon as I get my salary, I take out a chunk of it and transfer it to my Brokerage account and buy index funds with it.    
+
+
+Now, with I-series bonds offering 7.12% interest. I am tempted to invest my rainy day/emergency fund into it. I will have 1000 dollars in my bank account for emergencies. If push comes to shove, I can always liquidate my ETF holdings and I will have cash in my bank account in 3 to 4 days.   
+
+
+Given all of this, is this a sensible thing to do?","Loss Aversion, Framing Effect, Mental Accounting","The statement reveals several biases. The user's consideration to shift their emergency fund from a liquid, low-risk position (e.g., a traditional savings account or a money market fund) to I-series bonds, which offer a higher interest rate, indicates a potential for Loss Aversion. The user is likely attracted to the higher returns of the I-series bonds to mitigate the perceived loss of not earning enough interest on their emergency fund. Additionally, the Framing Effect may be at play as the user frames the decision in terms of the attractive 7.12% interest rate, potentially overlooking the liquidity and low-risk characteristics typically associated with emergency funds. Mental Accounting is also evident as the user compartmentalizes their funds into separate accounts (emergency fund, ETF holdings), and considers moving the emergency fund to a new investment product based on its attractive features rather than overall financial goals and risk tolerance.","The user exhibits a bias towards optimizing returns on all funds, including the emergency fund, while underemphasizing liquidity and risk considerations, driven by attractive interest rates and compartmentalized decision-making."
+ryxg1h,throwback656,"From a taxes POV strictly, is it meaningless to donate to charities if I am claiming the standard deduction.
+
+Before I get downvoted to oblivion for asking this, the charities that I donate to mean a lot to me. I never donated to them as a means of avoiding taxes. No matter what people tell me today, I will continue to donate to them.  
+
+
+Now I claim standard deduction every year. I am a salaried employee. Single. With just some dividend and capital gains income on the side. I don't own an apartment or a car. Given all of this, the standard deduction is the best for me. But in a given year I donate like 1000$ to 1500$ to charities. Is there a way I can get a sort of tax write-off for those donations?   
+
+
+I file taxes using Turbo tax sometimes and sometimes I just do it myself.","Loss Aversion, Status Quo Bias, Self-Attribution Bias, Affect Heuristic","The statement reveals several biases. The user's decision to continue donating to charities despite not receiving a tax benefit suggests Loss Aversion, as they are prioritizing the emotional value of donating over the potential financial gain. The fact that they mention not intending to get downvoted and feeling defensive about their question implies that they are influenced by Affect Heuristic, where their emotions are driving their decision-making. Additionally, their attachment to donating to charities and insistence on continuing to do so despite the tax implications indicates Status Quo Bias, where they prefer to maintain their current behavior. The user's confidence in their tax filing abilities, switching between using TurboTax and doing it themselves, may also indicate Self-Attribution Bias, where they overestimate their abilities and attribute their success to their own skills.","The user exhibits a tendency to prioritize emotional values and maintain their current behavior, while also overestimating their abilities and being influenced by emotions, leading to biased financial decision-making."
+s2mm29,throwback656,"If you can afford to pay for medical expenses out of pocket. Should you not use your HSA account?
+
+I maybe visit a doctor 3 to 4 times a year. Each visit cost about 200$. I can afford to pay for it using my post taxes money. My deductible is around 2000$ and I pretty much never cross that limit.   
+
+
+Given this, is it wise to pay for medical expenses out of pocket and treat your HSA account as another retirement account?","Status Quo Bias, Mental Accounting","The statement reflects a Status Quo Bias as the individual seems inclined to maintain the current situation by not using their HSA account for medical expenses, essentially sticking with the default option of not using it. Additionally, Mental Accounting is present as the individual is treating their HSA account as a separate entity, akin to a retirement account, rather than considering it as part of their overall financial portfolio or as a resource for medical expenses. This compartmentalization leads them to prioritize preserving the HSA for retirement over utilizing it for its intended purpose, potentially optimizing their financial situation.","The user exhibits a tendency to favor maintaining the current financial situation and compartmentalizes their HSA account, treating it as a dedicated retirement fund rather than a flexible healthcare expense account."
+s408il,throwback656,"Should you buy a house when you are on a Visa?
+
+I am currently working on an H1b. If I lose my job, I have to leave the country in 2 or 3 months. I don't remember the exact details.
+
+I have about 400K in Index funds and 100K in my 401K account. I make around 230K(Base + Bonus + stocks). I have 5 years of experience as a software engineer.
+
+I am currently leasing a studio apartment in Jersey City, NJ. For 1700$ a month. I am 30 and I am single. I don't have any plans of getting married. I would want to return back to India before I turn 40.
+
+Under these circumstances is it advisable to buy a studio apartment in NYC manhattan? For 5 to 10 years?","Present Bias, Status Quo Bias, Sunk Cost Fallacy, Recency Bias","The statement reflects several biases. The user's consideration of buying a house in NYC Manhattan despite having a precarious visa status and uncertain future plans indicates a Present Bias, as they seem to prioritize short-term desires over long-term consequences. Additionally, their current situation of leasing a studio apartment and having a significant amount in index funds and 401K account suggests a Status Quo Bias, as they might be inclined to maintain their current lifestyle. The user's mention of having to leave the country in 2 or 3 months if they lose their job but still considering a long-term commitment to a house purchase exhibits a Sunk Cost Fallacy, as they might feel compelled to ""not waste"" their resources. Lastly, the user's focus on their current financial situation and recent experiences (e.g., 5 years of experience as a software engineer) and not considering the potential risks and consequences of buying a house in Manhattan for 5 to 10 years indicates a Recency Bias.","The user exhibits a tendency to prioritize short-term desires and current circumstances over long-term consequences, leading to potentially suboptimal financial decisions."
+soo01i,throwback656,"I am trying to debate if I should see my old dentist vs a new one closer to my home.
+
+I used to see a dentist close to my office for a dental cleaning and stuff. He took an X-Ray of my whole mouth barely 6 months ago. Now I switched jobs and I found a new dentist closer to my home and she has great reviews on Google/Yelp.
+
+My new insurance only allows a full mouth X-Ray once in 3 years. And since I have new insurance she wants to do a brand new X-Ray of my whole mouth again. I got a copy of my X-Rays which at this point is barely 6 months old and she is refusing to use those :| She wants to do an X-Ray again. This is just a routine dental checkup/cleaning that I get every 6 months.
+
+I have two concerns at this point. (1) If I do have to get an X-Ray maybe next year for an actual problem, I would have to pay for it out of pocket. (2) I don't want to get an X-Ray for no justifiable reason. X-rays are radiation. Just because it is free, I am not going to bombard my mouth with radiation, because this dentist can bill my insurance company an extra 100$.
+
+On the whole, to me, it feels like the dentist is just being greedy. I called her and asked her why she wants to get another X-Ray and she is like because it is free. I want to get my own X-Ray done.
+
+Should I just stick with my old dentist even though he lives far away from me? What will happen if I just go to this Dentist and refuse to get an X-Ray?  
+
+
+I have Metlife Dental PPO insurance and this new dentist is in-network.","Loss Aversion, Status Quo Bias, Sunk Cost Fallacy, Regret Aversion","The statement reveals several biases. The individual's concern about getting an X-Ray ""for no justifiable reason"" and not wanting to ""bombard my mouth with radiation"" indicates Loss Aversion, as they are prioritizing avoiding potential harm over the potential benefits of the X-Ray. The person's inclination to stick with their old dentist despite the inconvenience suggests Status Quo Bias, as they are favoring the familiar option. The fact that they are considering continuing to see their old dentist because of a recent X-Ray done 6 months ago, which they have a copy of, implies a Sunk Cost Fallacy, as they are factoring in past investment (the X-Ray) into their current decision. Additionally, the individual's fear of regretting their decision if they get an X-Ray ""for no justifiable reason"" or if they have to pay out-of-pocket next year indicates Regret Aversion.","The individual exhibits a cautious and risk-averse approach to decision-making, often prioritizing avoiding potential losses and sticking with familiar options, while also being influenced by past investments and the fear of regret."
+t2epax,throwback656,"Are there any consequences for over-pay taxes to the IRS? Will I get audited?
+
+I spent the whole of today going through my transactions trying to   
+(1) Make sure my Qualified dividends are actually Qualified Dividends. (I switched from Robinhood to Schwab last year).  
+(2) My Section 199A dividends satisfy the holding period.  
+(3) Find the cost basis for the small portion of the gold that the gold ETF I held(IAU) sold last year to cover its expenses. (15 cents)
+
+At this point, I am really vexed with this whole process. According to Turbotax, I will probably get 200$ back if my qualified dividends are actually qualified dividends. And the gold ETF sold 15 cents worth of gold last year.  
+
+
+Can I just mark all of my qualified dividends as ordinary dividends and the 15 cents that IAU sold last year as income?  
+
+
+I don't want to do so much work for 200$.  Will I get audited for doing these kinds of things?","Loss Aversion, Present Bias, Sunk Cost Fallacy","The individual is exhibiting Loss Aversion as they are overly concerned about the potential consequences of making a small mistake on their tax return, specifically the possibility of getting audited. They are also displaying Present Bias, as they are prioritizing the immediate reduction in effort over the potential long-term benefits of accurately reporting their income. Furthermore, the Sunk Cost Fallacy is present as the individual has already invested significant time and effort into ensuring the accuracy of their tax return, but is now considering abandoning that effort due to the perceived low return on investment.","The user tends to prioritize short-term convenience and minimize effort, while being overly concerned about potential losses and consequences, leading to biased decision-making."
+ttjzir,throwback656,"Should you set aside money for a future payment from every paycheck?
+
+So I always end up wasting a crap ton of time thinking about these kinds of problems I face with budgeting money. This is a mathematical problem I think rather than a pure finance problem. I spent hours trying to solve this in excel, but I am not able to convince myself one way or another. So I thought I would finally ask for help here.
+
+* I bought a mobile phone for 950$ on March 31st using my credit card.
+* My credit card company posts my statement on April 15th.
+* I have to pay off my balance by May 13th.
+* Between now and May 13th, I will receive 4 paychecks, with the final paycheck being on May 13th coincidentally.
+* If I pay off my balance on May 13th, I would not have to pay any interest at all. So essentially I got a 0% interest loan for 1.5 months.
+
+Now, I make enough money that I can pay off 950$ from a single paycheck. So my question is, should I pay off 950$ using my May 13th paycheck alone or should I set aside some portion of my salary from each paycheck up until my May 13th paycheck?
+
+I invest my surplus money into ETFs. I don't sell any of my ETFs unless I am trying to rebalance my portfolio. I have no plans to rebalance my portfolio this year.  
+
+
+* 60% VOO(S&amp;P 500)
+* 20% VTWO(Russell 2000)
+* 20% VEU(FTSE Ex-US index)  
+
+
+Alternatively, I can invest the 950$ into a money market account too for 1.5 months.
+
+So if I divide 950$ into 4 paychecks, I have to set aside 237.5$ per paycheck. That leaves me with 712$ surplus cash per paycheck.
+
+If I use my final paycheck(May 13th paycheck) to pay off my debt. I would have 950$ surplus in 3 of my paychecks and 0$ surplus in my final paycheck.
+
+So given these are my options which would be the best way for me to pay off my debt.  Note that the next dividend payment date for all three of the ETFs that I invest in is some date in June.","Mental Accounting, Present Bias","The user's question revolves around whether to pay off a $950 debt from a single paycheck or to set aside a portion of their salary from each paycheck until the debt is due. The user has already determined that they can pay off the debt in one paycheck, and there are no interest charges if paid on time. However, they are overcomplicating the issue by considering setting aside money from each paycheck, which seems to stem from a desire to have surplus cash available for investing in ETFs. This behavior indicates Mental Accounting, as the user is treating the $950 as a separate entity rather than considering it as part of their overall financial situation. Additionally, the user's reluctance to use their final paycheck for debt repayment and instead wanting to allocate it to investments suggests Present Bias, as they are prioritizing short-term spending over long-term financial goals.","The user exhibits biased behavior by compartmentalizing their finances and prioritizing short-term spending over long-term goals, indicating a tendency towards Mental Accounting and Present Bias."
+vg6qm2,throwback656,"Should I continue investing in this climate?
+
+Every paycheck, I set aside some money and transfer it to my brokerage account and invest into three ETFs:  
+
+
+VOO, VTWO, VEU. I haven't been really consistent with my ratios, but it's usually somewhere between 60,20,20 to 80,10,10.
+
+I have been doing that for almost 2 years now. That last two months I took a break as I had other expenses to take care of. During Jan/Feb I was 100K in profit. Now I am close to 3K in profit.  
+
+
+Wondering if I should continue to invest or should I take a break for a couple of months till the whole recession/inflation fears subside a little bit.","Loss Aversion, Recency Bias, Status Quo Bias","The statement exhibits Loss Aversion, as the investor is hesitant to continue investing due to recent losses, fearing further decline in their portfolio value. Recency Bias is also present, as the investor is overly influenced by their recent performance, specifically the shift from a $100K profit to a $3K profit, which has led them to question their investment strategy. Additionally, Status Quo Bias is evident, as the investor is inclined to maintain their current investment routine and is hesitant to make changes, even considering taking a break from investing to avoid potential losses.","The investor exhibits a bias towards avoiding losses and being influenced by recent events, leading to a tendency to question and potentially alter their long-term investment strategy in response to short-term market fluctuations."
+11kwqtl,Throwra2846293,"How much do I really need to get into a duplex/ first house?
+
+I just turned 23 a few days ago, and my long time goal, since 19, was to be into a duplex / first house by 24 1/2. 
+
+For clearing, my goal is to live in one side while fixing the other (myself) and then flip flop. 
+
+Iâ€™m at the point where itâ€™s becoming real and Iâ€™m trying to get a grip on how much I really need to be comfortable doing it. 
+
+Iâ€™m in the tri state, and area where I need atleast 300,000-500,000 for a fixer upper. I have - $18k personal emergency fund, and about $38k put away for this house thus far. Along with 5-10k misc cash.
+
+By time Iâ€™m 24 if all go to plan id have around $60-70k saved for the house. Is this enough? I see so many varying options online.","Anchoring, Present Bias, Status Quo Bias","The statement reveals several biases. The individual has a specific goal to buy a duplex/first house by 24.5, which they've been planning since 19, and now that it's becoming a reality, they're trying to assess their financial readiness. They anchor on the online estimates of $300,000-500,000 for a fixer-upper in their area, which may not be adjusted for their specific situation. Additionally, they exhibit present bias by focusing on their current savings ($18k emergency fund, $38k for the house, and $5-10k misc cash) and projecting their future savings ($60-70k by 24), without adequately considering the potential risks and costs associated with buying and renovating a fixer-upper. Furthermore, their goal of living in one side while fixing the other and then flipping suggests a status quo bias, as they seem to be attached to their initial plan and are not fully open to alternative options.","The user tends to rely on anchors and their current plan, while underemphasizing potential risks and alternative options, indicating a tendency towards biased decision-making driven by anchoring, present bias, and status quo bias."
+11olmam,Throwra2846293,"I am 22 and just opened a Roth IRA, what invest in?
+
+Im 22 and just set my Roth IRA to invest $500/month from my savings. My question is Iâ€™m not sure what to invest to. I know I was to be fairly / most aggressive for growth, but not sure where to go to do that. Do you recommend I let fidelity GO handle it? Or do it myself?","Present Bias, Overconfidence","The statement exhibits Present Bias, as the individual is focused on short-term decisions (choosing an investment for their Roth IRA) without considering long-term implications. Additionally, the individual displays Overconfidence by assuming they can make informed investment decisions on their own, despite being relatively inexperienced (age 22). The fact that they are considering letting Fidelity's automated investment service, Fidelity GO, handle their investments suggests some uncertainty, but their willingness to take on an aggressive growth strategy without thorough research or consultation indicates overconfidence.","The user tends to prioritize short-term convenience and displays excessive confidence in their ability to make investment decisions, despite limited experience."
+13cgwj7,Throwra2846293,"Can I get money back from unused gym membership?
+
+I have a planet fitness membership for $25 a month. I paused the membership and since went 3x the past year not realizing I was still getting charged the last 4 months without going? 
+
+Do I have ground to ask for a refund of these months since I didnâ€™t know I was going?","Sunk Cost Fallacy, Status Quo Bias, Present Bias","The individual is hesitant to let go of their gym membership, even though they haven't used it, indicating a Status Quo Bias, which is the tendency to stick with the current situation due to a fear of change or loss. The fact that they paused the membership but didn't cancel it suggests a Sunk Cost Fallacy, where they are reluctant to ""waste"" the investment they've already made. Additionally, their consideration of asking for a refund for the unused months, rather than simply canceling the membership, reveals a Present Bias, where they prioritize short-term gains (getting a refund) over long-term benefits (cancelling the membership and avoiding future charges).","The user exhibits a tendency to hold onto past investments and prioritize short-term gains, leading to biased decision-making driven by Sunk Cost Fallacy, Status Quo Bias, and Present Bias."
+13ed394,Throwra2846293,"Roth IRA or regular market investing
+
+Iâ€™m 23 and jsut started in the workforce. 
+
+Whatâ€™s the difference of a Roth IRA vs jsut investing in the market?
+
+With a Roth my understanding is you canâ€™t touch the money thatâ€™s gained on the principle but you can touch principal. ( if you do itâ€™s a big penalty. 
+
+With stocks you can touch either or whenever you want but pay tax on anything you gain. Still at a much lower cost than taking out from a Roth. 
+
+
+You can invest in mutual funds in both aspects, but why do people love the IrA/ 401k if you donâ€™t have as much access?","Status Quo Bias, Present Bias, Framing Effect","The individual presents a relatively neutral comparison of Roth IRA and regular market investing, but reveals a bias towards the status quo by questioning the popularity of IRA/401k accounts, implying that restricted access to funds is a drawback. Additionally, the individual displays present bias by prioritizing easy access to their money, suggesting a preference for immediate gratification over long-term benefits. The framing effect is also evident, as the individual focuses on the restrictions of a Roth IRA (e.g., penalty for withdrawing gains) and frames it as a negative aspect, while presenting the flexibility of regular market investing as a benefit.","The individual tends to prioritize immediate access to their money and is skeptical of investment options that limit access, indicating a bias towards the status quo and present gratification."
+13jo17f,Throwra2846293,"What is the best target date fund in fidelity?
+
+Great news is I just opened my Roth 3 months ago and have started to invest. Bad news is thereâ€™s so many options Iâ€™m not sure where to start. Any ideas? 2065","Status Quo Bias, Present Bias, Authority Bias","The statement exhibits several biases. The user's recent opening of their Roth IRA and eagerness to invest suggests a Present Bias, as they are prioritizing short-term actions over potentially more important long-term considerations. The user's reliance on seeking recommendations from an unspecified source (""Any ideas?"") implies an Authority Bias, where they are placing undue trust in the opinion of others rather than taking personal responsibility for their investment decision. Additionally, the user's hesitation in choosing a target date fund and seeking guidance may indicate a Status Quo Bias, as they are potentially avoiding making a decision that would alter their current state of uncertainty.","The user exhibits a tendency to rely on external authorities and prioritize immediate actions, while struggling with indecision and a reluctance to deviate from their current state of uncertainty."
+14g08l3,Throwra2846293,"Should I increase my investments by 500 a month?
+
+I am 23, I make 85-90 ish a year. 
+
+I currently out $500/month into a Roth, but am wondering if I should Increase my retirement savings to $1,000 a month or 15%.
+
+I am currently at home and saving for a down payment so most all my cash it going to this. 
+
+I wanted to hear opinions if this extra $500 should go to the house fund, my Roth or a regular brokerage account.","Present Bias, Mental Accounting","The individual in question is considering allocating an additional $500 towards investments, but is torn between prioritizing a down payment fund, a Roth IRA, or a regular brokerage account. This dilemma suggests that the individual is exhibiting Present Bias, as they are prioritizing short-term goals (saving for a down payment) over long-term goals (retirement savings). Additionally, the individual is compartmentalizing their savings into separate accounts (mental accounting), as evidenced by their consideration of allocating funds to a specific ""house fund"", a Roth IRA, or a regular brokerage account, rather than evaluating their overall financial goals and optimal allocation strategy.","The user tends to prioritize short-term goals and compartmentalize their finances, indicating a bias towards present-day needs and separate mental accounts."
+14jxwz4,Throwra2846293,"How do I allocate my investments?
+
+I am 23 years old and am trying to learn more about investing. I have about $80k in my cash savings, waiting to buy a house in a few years but, 
+
+I currently put $500/ moth to my IRA, and put $400/ month into robinhood. Ideally to see growth/ dividend yields over the years. 
+
+My Roth goes right into a mutual fund, but Iâ€™m not too sure what to do with my robinhood. Do I invest the $100 each week or wait a few weeks to save and make one larger purchase. Also, cna I invest in dividend stocks like AT&T, TD bank, CSCO. Etc. 
+
+At the moment I am currently putting most my savings into my hosue fund as thatâ€™s nearest in line, the rest such as robinhood is for steady long term investments.","Present Bias, Status Quo Bias, Affect Heuristic","The statement reveals several biases. The investor's priority on saving for a house in a few years and allocating most of their savings to this goal indicates a Present Bias, as they are prioritizing short-term goals over long-term investments. Additionally, the investor's tendency to stick with their current investment strategy, such as automatically investing in a mutual fund in their Roth IRA, suggests a Status Quo Bias. The investor's consideration of investing in well-known dividend stocks like AT&T, TD Bank, and CSCO, without thoroughly evaluating their investment merits, indicates an Affect Heuristic, where they are relying on their emotions and familiarity with these stocks rather than a thorough analysis.","The investor exhibits a tendency to prioritize short-term goals and maintain the status quo in their investment decisions, while also relying on emotions and familiarity when making investment choices."
+14jxxa1,Throwra2846293,"How do I allocate my investments?
+
+I am 23 years old and am trying to learn more about investing. I have about $80k in my cash savings, waiting to buy a house in a few years but, 
+
+I currently put $500/ moth to my IRA, and put $400/ month into robinhood. Ideally to see growth/ dividend yields over the years. 
+
+My Roth goes right into a mutual fund, but Iâ€™m not too sure what to do with my robinhood. Do I invest the $100 each week or wait a few weeks to save and make one larger purchase. Also, cna I invest in dividend stocks like AT&T, TD bank, CSCO. Etc. 
+
+At the moment I am currently putting most my savings into my hosue fund as thatâ€™s nearest in line, the rest such as robinhood is for steady long term investments.","Present Bias, Status Quo Bias, Affect Heuristic","The statement reveals several biases. The investor is prioritizing short-term goals, such as saving for a house, over long-term investments, indicating a Present Bias, which is the tendency to prioritize immediate needs over future benefits. Additionally, the investor is maintaining the status quo by continuing to invest in a mutual fund through their Roth IRA without reevaluating, but is hesitant to make decisions about their Robinhood account, exhibiting Status Quo Bias. The investor also seems to be drawn to familiar, well-known dividend stocks like AT&T, TD bank, and CSCO, without thoroughly evaluating their investment potential, which is an example of the Affect Heuristic, where emotions and personal feelings influence investment decisions.","The investor tends to prioritize immediate goals, maintain current investment habits, and rely on emotional connections when making investment decisions, rather than thoroughly evaluating options and considering long-term benefits."
+14mwck8,Throwra2846293,"Should I invest $100 a week into Mutual funds/ ETF or save it in cash?
+
+I am 23, have a decent amount saved in my accounts for a house hopefully at 25, I currently put $500/month to my Roth, but would like to add to my investment with ETF/ mutual funds. I was thinking about $100/week. Iâ€™m just not sure if it worth doing or just save the extra cash for when I get a house. 
+
+I like the idea of being diverse and having different investing accounts. But want to hear from others","Status Quo Bias, Present Bias, Affect Heuristic","The statement reveals several biases. The individual is considering investing $100/week in ETFs/mutual funds but is hesitant, preferring to save the extra cash for a house. This indicates a Status Quo Bias, as they are inclined to maintain their current financial situation rather than making a change. Additionally, their uncertainty about investing and preference for saving for a specific goal (a house) suggests a Present Bias, prioritizing short-term goals over potential long-term benefits. The phrase ""I like the idea of being diverse and having different investing accounts"" also implies an Affect Heuristic, where their emotional appeal of diversification is influencing their decision, rather than a thorough analysis of the investment's merits.","The user exhibits a cautious and conservative approach to investing, driven by a preference for maintaining the status quo, prioritizing short-term goals, and being swayed by emotional appeals, rather than a thorough evaluation of investment options."
+14mwcx1,Throwra2846293,"Invest $100 a month in stocks or save it cash?
+
+I am 23, have a decent amount saved in my accounts for a house hopefully at 25, I currently put $500/month to my Roth, but would like to add to my investment with ETF/ mutual funds. I was thinking about $100/week. Iâ€™m just not sure if it worth doing or just save the extra cash for when I get a house. 
+
+I like the idea of being diverse and having different investing accounts. But want to hear from others","Status Quo Bias, Present Bias, Affect Heuristic","The statement reveals several biases. The individual is considering investing $100/month in stocks, but is hesitant, indicating a Status Quo Bias, where they prefer to maintain their current situation (saving cash) rather than change it (investing in stocks). Additionally, they mention wanting to ""save the extra cash for when I get a house,"" suggesting a Present Bias, where they prioritize short-term goals (saving for a house) over long-term goals (investing in stocks). The phrase ""I like the idea of being diverse and having different investing accounts"" also suggests an Affect Heuristic, where they are making a decision based on how it makes them feel (diversification sounds good) rather than a thorough analysis of the investment's merits.","The user tends to favor maintaining their current financial situation, prioritizing short-term goals, and making decisions based on intuition rather than thorough analysis."
+15faf22,Throwra2846293,"How to overcome the fear of pulling the investment trigger
+
+Iâ€™m 23, and ever since about 18 Iâ€™ve been saving hard to meet my goal of buying a duplex by time I was 24 1/2. 
+
+I worked with a carpenter/ home improvement company for a few years and currently do that work on the side so it was my plan to do Reno myself. 
+
+Iâ€™m about time to meet my goal, have a net worth of about $115k, and make $60k salary and another roughly 20-30k side hustles ,that includes EF, cash reserves , IrA, misc assets, and about $55k so far dedicated to the duplex. 
+
+Now that Iâ€™m here ready to act on what Iâ€™ve been planning Iâ€™m getting very nervous, and double thinking everything. I think itâ€™s mostly I donâ€™t want to take the risk but I know risk if essential to growth. 
+
+Any like minded people?","Loss Aversion, Status Quo Bias, Present Bias, Regret Aversion","The statement reveals several biases that are influencing the individual's decision to invest in a duplex. Loss aversion is evident as the person is nervous about taking the risk and is double-thinking their decision, indicating a fear of potential losses. Status quo bias is also present as the individual is hesitant to deviate from their current situation, despite having a well-planned goal. Present bias is apparent as the person is prioritizing short-term comfort over long-term growth, and regret aversion is also influencing their decision, as they are worried about making a wrong move and regretting it.","The individual exhibits a risk-averse tendency, influenced by loss aversion, status quo bias, present bias, and regret aversion, which are hindering their ability to make a decision to invest in a duplex despite having a well-planned goal."
+15xp13a,Throwra2846293,"How to stop Feeling stagnant and no meeting personal goals?
+
+Let me jsut start off by saying Iâ€™ve worked really hard to get where I am, I am super lucky to be able to live at home, but had to pay for schooling and such. I am what Iâ€™d think well off for my age but seeing social media seeing people make $100k at 23 and such really makes me feel like I financially are not anything special. 
+
+I am 23, went to school for IT management but decided I wanted to go back to my â€œrootsâ€ in the construction field and am a Project Coordinator in NYC. 
+
+I make $60k / yr and also do side hustles making about $25k a year. 
+
+Iâ€™m aiming to save for a duplex but after my normal expenses living at home and investing I only have about 2.5k left over per month.
+- Take home about $5.5k a month 
+- Investing IRA, personal saving and Regular alr Brokerage $1,950 a month. 
+- bills / misc spending $1k a month average 
+Net worth about 115k
+
+About $2,500 left over most months.
+
+Like I said above I bet most will think this is a joke or be like your delusional but itâ€™s a legitimate weight on my shoulders, I just feel I should be doing better.","Social Comparison (related to Affect Heuristic), Status Quo Bias, Present Bias","The individual's statement reveals a sense of dissatisfaction with their current financial situation, despite having achieved a significant net worth of $115k at the age of 23. They compare themselves to others on social media, feeling inferior due to the perceived success of peers making $100k at a younger age. This comparison is an example of the Affect Heuristic, where emotions (in this case, feelings of inadequacy) drive their financial decisions and self-perception. Additionally, the individual's reluctance to acknowledge their own financial success and instead focusing on what they feel they ""should be doing better"" at indicates a Status Quo Bias, where they are resistant to accepting their current situation as satisfactory. Lastly, the Present Bias is evident in their focus on short-term feelings of inadequacy rather than long-term financial progress.","The individual exhibits a tendency to make financial decisions influenced by emotional comparisons to others, a resistance to accepting their current financial situation, and a focus on short-term feelings of inadequacy."
+164zak0,Throwra2846293,"Iâ€™m having a small credit score crisis.
+
+Long sorry short. Iâ€™m 23, and had a 753 credit score. One day I look and it drops 100 points with no explanation. 
+
+I called equifax and they send me a full report in which I found nothing out of the norm. Just a random drop. I have no debt, missed 0 payment and canâ€™t find a reason. Iâ€™m going to call again tomorrow to ask more but Iâ€™m somewhat freaking out. Thereâ€™s no explanation. 
+
+Any advice? Iâ€™m looking to buy my first house in the next year so this is a big deal.","Loss Aversion, Recency Bias, Affect Heuristic","The statement exhibits Loss Aversion as the individual is highly distressed about the unexpected drop in their credit score, indicating a strong emotional response to a perceived loss. Recency Bias is also present, as the person is overemphasizing the recent drop in their credit score and its potential impact on their future goal of buying a house. Furthermore, the Affect Heuristic is evident, as the individual's emotional state (freaking out) is influencing their decision-making process, leading them to seek immediate advice and reassurance.","The user exhibits a tendency to overreact to recent negative events, prioritizing short-term concerns over long-term goals, and allowing emotions to drive their decision-making."
+165abke,Throwra2846293,"Financial stable but not confident
+
+I am 24, have about 115k net worth, about 8k in retirement, 50k cash, 20k EF. 10k misc cash. 
+
+Income about 75k. No debt, monthly expenses around 1,600
+
+I feel like Iâ€™m doing really well but at the same time feel like Iâ€™m behind. I have good funds, but housing is expensive and I just canâ€™t bring myself to make the leap to buy a duplex like Iâ€™ve wanted. Any advice going foward.","Loss Aversion, Status Quo Bias, Regret Aversion","The statement reveals several biases. The individual feels they are ""doing really well"" given their financial situation, but simultaneously feel ""behind."" This dichotomy suggests Loss Aversion, as they are hesitant to take on the risk of buying a duplex, potentially due to fear of losses. Their current financial stability and lack of debt seem to be creating a Status Quo Bias, making them reluctant to change their situation and take on new responsibilities. Additionally, Regret Aversion may be at play, as they are hesitant to make a decision that could potentially lead to regret if it doesn't work out, such as buying a duplex that might not perform as expected.","The individual exhibits a cautious approach to financial decision-making, driven by a fear of potential losses and a reluctance to deviate from their current stable situation."
+165utvt,Throwra2846293,"What are the best tips to boost my credit score?
+
+Long story short, Iâ€™m 23 and my credit score was a 752. Randomly it dropped 100 points for no reason and equifax and TransUnion are saying itâ€™s because I didnâ€™t have any history, even tho I had one credit card paid religiously for the past 3 years. They basically said thereâ€™s nothing they can do. 
+
+I want to buy a house in the next year so this is important to me. Any ideas? They said open more CC and hold a small balance","Loss Aversion, Framing Effect, Authority Bias","The user's statement exhibits Loss Aversion as they express distress and frustration over the sudden drop in their credit score, indicating a strong emotional response to a loss. The Framing Effect is also present, as the user's perception of their credit score situation is influenced by the way the credit bureaus framed their explanation, specifically the phrase ""there's nothing they can do."" Additionally, the user appears to be influenced by Authority Bias, as they seem to accept the credit bureaus' explanation and advice without questioning it, and are seeking validation and guidance from an external source.","The user tends to make emotionally-driven financial decisions, influenced by external authorities and framed information, which may lead to suboptimal choices."
+eiq3ow,ToKeepAndToHoldForev,"Is retirement income considered as part of your limit for how much you can make on disability?
+
+Yeah this is about my other post because I need to double check and genuinely donâ€™t know what to google here.
+
+According to my mother, her pension is considered wages for the IRS until sheâ€™s 65 while not counting towards the limit of how much you can make while on disability.
+
+This sounds right, but Iâ€™m not sure.","Authority Bias, Confirmation Bias","The statement exhibits Authority Bias, as the individual is taking their mother's advice at face value without verifying it through other sources, such as official government websites or financial experts. Additionally, the individual is displaying Confirmation Bias, as they are seeking validation for their mother's advice and are inclined to accept it as true because it aligns with their existing understanding, rather than considering alternative perspectives or seeking objective information.","The user tends to rely on authority figures and seeks confirmation of their existing knowledge, rather than critically evaluating information and seeking objective verification."
+f71s0q,ToKeepAndToHoldForev,"I am trying to understand my options for monthly income while studying abroad
+
+Iâ€™m looking at the immigration page for Austria and it says for a student visa you need monthly income above a certain amount. A work visa requires a job offer. I think you can go in from the US without a work visa, get a job (somehow) and then go from there but I feel like thatâ€™s not the intended option.
+
+If this is the wrong subreddit, I apologize.","Status Quo Bias, Affect Heuristic","The statement reveals that the individual is exploring options for monthly income while studying abroad, and is considering the requirements for a student visa and a work visa in Austria. The individual seems hesitant to pursue the option of entering the country without a work visa and then finding a job, stating that it ""feels like that's not the intended option."" This suggests that the individual is exhibiting Status Quo Bias, as they are inclined to follow the more traditional or expected path (obtaining a work visa with a job offer) rather than exploring alternative, potentially more uncertain options. Additionally, the individual's use of phrases like ""I feel like"" and ""that doesn't feel right"" indicates that they are relying on their intuition or emotions, which is a hallmark of the Affect Heuristic.","The user tends to favor traditional or expected paths and relies on intuition and emotions when making decisions, rather than thoroughly evaluating all available options."
+hlpvc5,ToKeepAndToHoldForev,"I started a freelance writing job a week ago, and expect to work it for the rest of the year. How do I file quarterly taxes since I started mid-year?
+
+I'm not sure how I'm supposed to do this if I just started this job. I understand that I need to file an annual return and also pay estimated taxes but I don't understand the order that I need to do them. I also don't understand what period I'd be paying the taxes for per quarter. When I file in September, am I paying for June to September (Q3) or October to December (Q4)?
+
+I had a regular job until late February. 
+
+I swear I read the wiki and most personal finance stuff is easy for me to follow. 
+
+Thank you in advance!","Overconfidence, Status Quo Bias, Self-Attribution Bias","The individual exhibits Overconfidence by stating that ""most personal finance stuff is easy for me to follow,"" which indicates an inflated sense of their ability to understand financial concepts. This overconfidence is then contradicted by their admission of not understanding the process of filing quarterly taxes, suggesting a disconnect between their perceived and actual knowledge. Additionally, the individual displays Status Quo Bias by implying that their previous regular job until late February is a reference point, and now they are uncertain about adapting to their new freelance job. The statement ""I swear I read the wiki"" suggests Self-Attribution Bias, as they are emphasizing their effort to educate themselves, potentially to justify their confidence in their financial knowledge.","The individual tends to overestimate their financial knowledge, cling to their previous experiences, and attribute their efforts to a positive self-image, indicating a biasing behavior that combines overconfidence, status quo bias, and self-attribution."
+hxxhm6,ToKeepAndToHoldForev,"Is it dumb to pick between two near-identical funds based on the fact that the one with the higher cost (.15% versus .12%) was easier to find on their website?
+
+I just feel like being able to find the Vanguard Target Retirement 2065 fund on their website without any special googling makes it better in my mind. I couldn't find the right page for the Fidelity Freedom Index 2065 fund from their website through the IRA section. You have to go to Research &gt;&gt; Mutual Funds and either toy with the buttons and stuff based on risk and other specifications or search up the target date you want. If you go through the IRA section, they only show their non-freedom index funds.
+
+On the other hand, I don't know if .03% is a dumb amount of money to leave on the table if it's for retirement. My calculator (just desmos nothing special) says .15% versus .12% of a million is a difference of 300 dollars. I doubt $1M \* (.0015 or .0012) is the right way to do that math, but still. Plus, I can start investing with Fidelity now over Vanguard in 4 months when I'll have $1k. Am I being dumb here?
+
+Ninja edit: Here's the funds if you want to look at allocation: [https://investor.vanguard.com/mutual-funds/profile/VLXVX](https://investor.vanguard.com/mutual-funds/profile/VLXVX)
+
+[https://fundresearch.fidelity.com/mutual-funds/summary/315796839](https://fundresearch.fidelity.com/mutual-funds/summary/315796839)","Affect Heuristic, Status Quo Bias, Framing Effect, Present Bias","The user's decision-making process is influenced by the Affect Heuristic, as they rely on their emotional response to the ease of finding a fund on the website, which creates a positive impression. Additionally, the Status Quo Bias is present, as the user seems to favor the fund that is easier to access, implying a preference for the default or more readily available option. The Framing Effect is also evident, as the user's perception of the funds is influenced by the way the information is presented on the website. Furthermore, the Present Bias is apparent, as the user prioritizes the short-term benefit of starting to invest with Fidelity in 4 months over the long-term cost savings of the lower-fee fund.","The user's investment decision is biased by a combination of emotional, convenience-driven, and short-term focused thinking, leading to a potentially suboptimal choice."
+i2pf2p,ToKeepAndToHoldForev,"Feel like I'm playing the slowest ""marshmallow"" game there is and need help figuring out if I should withdraw my CD early
+
+I got a 2-year CD for $500 at Fifth Third a year and a month ago as an 18-year-old when the rates were .15% APY. I didn't know online CDs and savings accounts existed and my personal finance knowledge was limited to a personal finance class that still suggested treasury bills around 2015. 
+
+I didn't plug the numbers into a CD calculator until 6 months in (nor did I have any intuition on returns, just that .15% was and is more than my bank account), and I wouldn't have bought the CD if I knew I'd tie up $500 for two years to make it $501.5. 
+
+The penalty would be 3% of what I take out, except my bank's website says [""The amount of the penalty shall not exceed interest earned""](https://www.53.com/content/fifth-third/en/personal-banking/bank/savings/certificates-of-deposit.html) I'm running the numbers based on the penalty existing, just in case because that doesn't sound right.
+
+I feel like I'm being asked to take out $485 now that I could put toward my moving out fund\*, money for a community college class for medical billing months from now (17.6% of the money needed!!), regular investments I make like the S&amp;P, or even my IRA... versus $501.5 next July. I don't have any debt.
+
+\*not moving out now, but will later. My sanity is not worth the extra rent, food money, and bus fare, and my city is cheap and loves medical careers with a passion. Seriously we have like, three hospitals.","Loss Aversion, Sunk Cost Fallacy, Present Bias","The statement reveals several biases. Loss Aversion is evident as the individual is hesitant to withdraw from the CD early, fearing a penalty and framing the potential loss of $15 (3% of $500) as a significant concern. The Sunk Cost Fallacy is also present, as the person is considering holding onto the CD because they've already invested $500 and doesn't want to ""lose"" money, even if it means missing out on other financial opportunities. Additionally, Present Bias is observed as the individual is prioritizing short-term needs (e.g., moving out fund, community college class) over long-term gains, indicating a preference for immediate gratification.","The user exhibits a tendency to prioritize short-term gains and avoid losses, often at the expense of long-term financial opportunities, revealing a bias towards immediate gratification and loss aversion."
+i525hf,ToKeepAndToHoldForev,"Will helping pay off my parents mortgage effect their ability to file for bankruptcy?
+
+My parents have a ton of medical debt, and we have no shot in hell in paying it off. I don't have all the details at this moment, so this question may not matter, but we're 3 years in on a 20 year fixed rate mortgage. I don't even know the amount and obviously will edit my plan as I go along, but if I either give my parents $250/month to put down the principal or just pay that directly to whoever has the mortgage, will that make them unable to file for bankruptcy? 
+
+Thank you in advance.","Loss Aversion, Sunk Cost Fallacy, Present Bias","The individual is considering helping their parents pay off their mortgage, which indicates a concern for their family's well-being and a potential aversion to loss (Loss Aversion). By exploring the impact of paying off the mortgage on their parents' ability to file for bankruptcy, the individual may be exhibiting a Sunk Cost Fallacy, as they are already 3 years into a 20-year mortgage and may feel invested in continuing to make payments. Additionally, the individual's willingness to adjust their plan as they go along and provide assistance to their parents suggests a Present Bias, prioritizing short-term family concerns over long-term financial implications.","The user exhibits a bias towards prioritizing family well-being and short-term concerns, while being influenced by past investments and a desire to avoid loss."
+i9173b,ToKeepAndToHoldForev,"Does making a payment plan to a community college count as a line of credit?
+
+I feel like the answer is obvious, but I want to double-check. I'm looking to add more lines of credit to my overall credit portfolio (wrong word) because while my score is currently around 750, I want to buy a house down the line and don't want to get rejected. I have one Capital One credit card I pay off every month with a $500 limit (up from $200!) and use around $25 a month. 
+
+Meanwhile, I took a gap year, and that turned into 1.5 gap years but I'll be going to a vocational college in February. It costs $2,750 for the program I want (a very good program, Medical Billing is huge in Ohio as with other medical adjacent careers) and while I can probably collect all of this upfront, they also offer a zero fee, zero-interest payment plan where you pay part of it upfront and 
+
+It \*feels\* like this doesn't count as a line of credit or a debt owed, but if I could add to my credit history without trying to manage two credit cards, that'd be great. 
+
+Additional question - if I get a second Capital One card, will that also add to my ""credit file""?
+
+Thank s in advance","Confirmation Bias, Mental Accounting, Status Quo Bias","The individual is seeking validation for their assumption that a payment plan to a community college does not count as a line of credit, indicating a confirmation bias as they are looking for information that confirms their preconceived notion. Additionally, they are mentally accounting for their credit portfolio, separating their Capital One credit card from the potential payment plan, and not considering the overall impact on their credit history. The individual is also exhibiting a status quo bias by sticking with their current credit situation and seeking to add to their credit history without making significant changes, such as managing two credit cards.","The user tends to seek confirming information, compartmentalize their financial decisions, and prefer maintaining their current financial situation, indicating a bias towards confirmation, mental accounting, and the status quo."
+ic7xbv,ToKeepAndToHoldForev,"When I file my taxes and pay social security taxes and income taxes on freelance income, what part do IRA contributions apply to?
+
+This is the math as I understand it right now: when I file my taxes, I will owe (ignoring estimated payments, which I will be making) 15.7% of (say) $11,000 as freelance income, since I'm self-employed, and 10% on the first $9,875 and 12% on the next $1,125, before any deductions. Total taxes owed: $2849.5, or \~26%
+
+I can deduct half my self-employed taxes from my income-taxed income, so I owe 15.7% on $11,000, 10% on $9,875, and 12% on $261. Total taxes: $2745.82 or \~26%
+
+I can also take the standard deduction, which is to my income-taxed portion of my income. This sounds wrong somehow but it's what I understand, and I now owe 15.7% on $11,000. Total taxes owed: $1727... somehow.
+
+I put away/will put away 15% of my income in a traditional IRA this year. I only started working freelance in June. Let's say I put away $1,650. Is this amount something I deduct from AGI for \*income tax\* or \*self-employed\* tax? Also, am I understanding standard deductions correctly? That seems a little too good to be true. 
+
+Thank you in advance.","Confirmation Bias, Anchoring, Status Quo Bias","The individual in the statement appears to be seeking validation for their understanding of tax calculations and IRA contributions. They present their calculations and assumptions, and then ask for confirmation on specific points, such as whether IRA contributions are deducted from AGI for income tax or self-employed tax. This behavior suggests Confirmation Bias, as they are seeking to confirm their existing understanding rather than challenging it. Additionally, they anchor on their initial calculations and assumptions, and seem reluctant to adjust their understanding even when faced with potentially contradictory information, indicating Anchoring. Furthermore, their hesitation to accept the standard deduction as a legitimate option (""that seems a little too good to be true"") implies a Status Quo Bias, where they are biased towards maintaining their current understanding rather than adopting a new perspective.","The individual exhibits a tendency to seek confirmation of their existing understanding, anchor on initial calculations, and resist changes to their perspective, indicating a prevalence of Confirmation Bias, Anchoring, and Status Quo Bias."
+ifuqe3,ToKeepAndToHoldForev,"Is there any way to tell my Personal Capital app that I'm not spending &gt;$600 on a random fun payment but actually paying my taxes?
+
+I'm not looking forward to the cut in my net worth, but it is what it is. Is there any way to categorize that expense as a tax expense, or will it do it automatically?","Loss Aversion, Mental Accounting","The user's statement reveals Loss Aversion, as they express reluctance about the impact on their net worth, indicating a dislike for losses. Additionally, Mental Accounting is present, as the user is concerned about categorizing the tax expense correctly within their Personal Capital app, demonstrating a desire to track and manage their finances in a way that accurately reflects their financial situation. The user's focus on accurately categorizing the expense suggests they are trying to maintain a clear picture of their financial situation, which is influenced by mental accounting tendencies.",The user exhibits a tendency to be averse to losses and to mentally track and categorize their expenses in a way that influences their financial decision-making.
+ijjeqh,ToKeepAndToHoldForev,"How come we don't factor social security payments into retirement savings?
+
+I realize not all my social security taxes go to my future pension, but if I won't be relying entirely on my own personal savings then how come that 15% number isn't made up of your taxes to some extent?","Mental Accounting, Framing Effect","The statement reveals Mental Accounting bias as the individual is compartmentalizing their retirement savings into separate accounts, specifically excluding social security payments from their personal savings. This bias leads them to think of social security as a separate source of funding, rather than integrating it into their overall retirement plan. Additionally, the Framing Effect is present as the individual is influenced by the way social security taxes are framed, focusing on the 15% number and wondering if it should be considered as part of their personal savings.","The user exhibits a tendency to mentally segregate their financial resources and be influenced by the framing of financial information, leading to a narrow and incomplete view of their overall financial situation."
+imke04,ToKeepAndToHoldForev,"The green energy sector had an amazing run but I couldn't find much news on it.
+
+For whatever reason, the green energy sector is wayyy up from March, sometimes nearly double what it was for some ETFs. For example, PBW is up 80% this year at $53 when it was $35 earlier this year. ICNL is at $15.8 today when it was roughly $13.2 right before the crash. 
+
+I found one article documenting this rally in May (https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/as-clean-energy-stocks-rally-solar-panel-makers-sink-on-us-exchanges-58753456), and a more recent one (August) here: https://www.google.com/amp/s/www.nasdaq.com/articles/why-renewable-energy-stocks-are-up-big-on-thursday-2020-08-13%3famp
+
+Apparently people didn't delay any residential or market green energy investments, so like Tech is/was seen as Pandemic-Proof, so was/so green energy. That's just my guess, though. I only noticed because I realized this morning I forgot to invest in green energy and noticed PBW's rally in the process.
+
+Edit: Forgot to mention that some green energy firms  last week had 12% gains in one day, according to the second article","Confirmation Bias, Recency Bias, Affect Heuristic","The statement exhibits Confirmation Bias as the individual seems to be selectively seeking information to support their recent observation of the green energy sector's rally, citing only two articles that confirm their findings. Additionally, Recency Bias is present as the individual is placing greater emphasis on recent events (noticing the rally ""this morning"") and recent articles (from May and August). The Affect Heuristic is also evident, as the individual's emotional response to missing out on the rally (""I realized this morning I forgot to invest in green energy"") influences their investment consideration, leading them to quickly guess at reasons for the sector's success.","The user exhibits a tendency to seek confirming information, overemphasize recent events, and make investment decisions based on emotional responses."
+iocy0a,ToKeepAndToHoldForev,"How do you go about proving income for medical bills if you work freelance?
+
+In late October I will be having surgery, and while my insurance will cover most of it the part it won't cover is still a bit steep for me. My mom told me (it's her insurance) that I can have that co-pay waived due to my income. 
+
+I'm fairly certain I can qualify, but I'm not sure how I'm supposed to prove my income to either my insurance or the hospital system (presumably the latter) if I do freelance writing. Paypal receipts? 
+
+Thanks in advance.","Authority Bias, Confirmation Bias","The user appears to be influenced by Authority Bias, as they trust their mom's advice regarding her insurance and assume it's applicable to their situation. Additionally, the user exhibits Confirmation Bias by seeking validation for their assumed solution (having the co-pay waived) and focusing on a specific method to prove income (e.g., using Paypal receipts), which may indicate they're looking for confirmation of their preconceived notion rather than exploring alternative solutions or verifying information through multiple sources.","The user tends to rely on authority figures and seek confirmatory information, which may lead to biased decision-making."
+iw1qzw,ToKeepAndToHoldForev,"How do I (anonymously) pay part of my mom's loan that she has against her life insurance?
+
+It's not a crazy high loan nor a crazy amount I'll be paying by any means. But I don't want her to know. She took it out for a good reason, I promise
+
+I know her life insurance provider and obviously her full name, but not much else. I don't think I can just go on her laptop and hope she has her password saved for State Farm or else I'd do it online.
+
+Any tips?
+
+Thanks
+
+Edit: Thanks for the help everyone","Regret Aversion, Affect Heuristic, Sunk Cost Fallacy, Authority Bias","The user is considering paying off part of their mom's loan anonymously, indicating a desire to help their mom without her knowledge. This behavior suggests Regret Aversion, as the user may want to avoid potential regret or guilt associated with their mom finding out. The user's concern about not wanting their mom to know implies an emotional aspect, which is characteristic of the Affect Heuristic. Additionally, the user's mention that their mom ""took it out for a good reason"" may indicate a Sunk Cost Fallacy, where the user is considering the emotional investment their mom has made in the loan. The user's trust in the responses from others (implied authority) also suggests Authority Bias.","The user exhibits a tendency to make decisions based on emotional considerations and a desire to avoid regret, while also being influenced by the perceived authority of others."
+jgz3pd,ToKeepAndToHoldForev,"For those of you that invest in ""big name"" EV companies like Tesla and NIO, how do you hedge your bets? Smaller EV companies, EV ETFs, other car makers, options?
+
+I also asked r/stocks but it's probably better here. 
+
+I'm not invested, save for whatever Charles Schwab adds into my IRA's target date fund, simply because I don't understand EVs or the industry (can't even driv and probably won't until self driving ones come out) but I'm curious what y'all do.","Status Quo Bias, Authority Bias, Present Bias","The statement exhibits several biases. The user displays Status Quo Bias by passively investing in a target date fund through their IRA, indicating a tendency to stick with the default option rather than actively making investment decisions. The user also shows deference to Charles Schwab, implying trust in the institution's investment choices, which is a sign of Authority Bias. Furthermore, the user's decision to not invest in EV companies due to a lack of understanding and instead waiting for self-driving cars to emerge suggests Present Bias, as they prioritize current ease over potential future benefits.","The user tends to exhibit a cautious and passive approach to investing, often relying on default options and authority figures rather than taking proactive steps to educate themselves and make informed decisions."
+mbf8h7,ToKeepAndToHoldForev,"I received a corrected 1099 from my brokerage. Do I need to file an amended return for $.45 worth of taxes?
+
+I apparently made $3 more than I thought I did. I'm not sure if this is worth the amended return and frankly I'm not quite sure how to file an amended return. Does free 1040 tax return even let you do that? That's what I used for my taxes, I did them early because I didn't even know corrected reports were a thing (my mistake there).","Status Quo Bias, Present Bias, Sunk Cost Fallacy","The individual is hesitant to file an amended return for a mere $.45, indicating a Status Quo Bias, where they prefer to maintain their current state (not filing an amended return) rather than taking action to correct their tax return. Additionally, their reluctance to invest time and effort into filing an amended return, especially when they're unsure about the process, reveals a Present Bias, prioritizing short-term convenience over potential long-term benefits. Furthermore, their mention of having already done their taxes early using free1040 tax return and not wanting to revisit the process suggests a Sunk Cost Fallacy, where they're considering the ""cost"" of their initial effort and not wanting to ""waste"" more time on it.","The user tends to avoid taking action that requires effort or deviation from their current state, often prioritizing short-term convenience and minimizing additional work."
+11i1hrp,tony_boxacannoli,"Need a new tax preparer ?s
+
+Last year we sat down with our CPA in March, gave over paperwork, discussed some things...pretty much exactly what we've done with her for years. 
+We starting getting letters from our uncle letting us know taxes were owed in October. A meeting with the CPA revealed extensions were filed - but things were missed/overlooked. 
+
+Our CPA took full responsibility for the error and said they would pay the fines/penalties (?$) but we would still need to pay the tax owed (3...4k)...this in addition to taxes already deducted from paychecks. 
+
+
+tl;dr:
+
+We've been using the same CPA for years now...but...last tax season some of our paperwork wasn't filed on time resulting in fines.
+
+
+Q: 
+
+- Should we continue using this CPA?
+
+- How do we go about finding/interviewing a new CPA?","Status Quo Bias, Sunk Cost Fallacy, Regret Aversion","The user's statement reveals a strong inclination to stick with their current CPA despite a recent mistake that resulted in fines and penalties. This tendency to maintain the current situation simply because it's familiar and has been the status quo for years is a classic example of Status Quo Bias. Additionally, the user's long history with the CPA and the CPA's assumption of responsibility for the error may lead to a Sunk Cost Fallacy, where the user feels invested in continuing with the CPA due to past interactions. The user's questioning of whether to continue using the CPA and how to find a new one also suggests Regret Aversion, as they may be hesitant to switch and potentially regret the decision if it doesn't yield better results.","The user exhibits a bias towards maintaining the status quo and avoiding regret, which may lead to a reluctance to switch from their current CPA despite a recent mistake."
+11i1nka,tony_boxacannoli,"IRA CD to ROTH IRA ?
+
+My wife has an IRA CD ..maybe 2?...that are quite old...deposits haven't been made in years...probably under 10k in total in them.
+
+Can these funds be moved to her fidelity Roth IRA?
+
+Will the money count towards her annual contribution ?","Status Quo Bias, Present Bias","The statement suggests that the individual is considering a change to their wife's IRA CD, but the language used implies a sense of inertia and reluctance to take action (""maybe2"", ""quite old"", ""deposits haven't been made in years""). This indicates a Status Quo Bias, where the individual is biased towards maintaining the current state of affairs. Additionally, the fact that they are only now considering a change after possibly having had these old, inactive accounts for years, suggests a Present Bias, where the individual is prioritizing short-term ease over long-term benefits.","The user exhibits a tendency to favor inaction and the current state of their financial affairs, while also prioritizing short-term convenience over potential long-term benefits."
+11i5iv5,tony_boxacannoli,"College graduate stock account
+
+tl; dr:
+
+I'm trying to create a set-it-and-forget stock account for my "" adult "" daughter.
+
+
+long version: 
+
+She graduated college last spring, continued on with her internship, and was hiring at that company. The company does offer a 401(k) with a 3% match...I suggested she contribute as much as she possible can...10, 12, 15%...and she did...she sat down with the HR guy (?) and basically repeated what I told her - which is what you guys have been telling everyone...so, thank you all.
+
+My daughter has minimal bills...Spotify, gas in the car, going out with friends, pays CC in full, no college debt, no rent, etc.....she has money collecting dust in a savings &amp; loan. 
+
+She's got plenty of years to invest and I just want to get her started in the right direction. She doesn't have much interest in the Market and it actually scared of losing her money. 
+
+
+So far, we've opened an account at fidelity with both a brokerage account ($2k) and a Roth IRA ($6K).
+
+I don't think it makes much sense (but I don't know anything) to have both these accounts full of exactly the same stocks. I'd also like the accounts to have minimal effort in maintaining....that probably moves us into blue chips and index funds.
+
+I don't know much about blue chips...just recalling the term from decades ago and meaning big companies like IBM and FAANG (? is that blue chip?).
+
+At her age, would heavy dividend stocks make sense? O, KO, XOM ?
+
+For index funds, I'm thinking VTI, VXUS, SCHD....I'd have these as her ROTH foundation ?","Loss Aversion, Overconfidence, Anchoring, Status Quo Bias","The statement exhibits several biases. Loss Aversion is evident as the daughter is scared of losing her money in the market, which is a common fear-driven response. The father's suggestion of investing in ""blue chips"" like IBM and FAANG, and dividend stocks like O, KO, and XOM, indicates Anchoring, as he is relying on familiar, well-known companies rather than exploring a broader range of investment options. Additionally, his consideration of these specific stocks and index funds like VTI, VXUS, and SCHD, without much knowledge of their details, shows Overconfidence in his own abilities. The desire to set up the accounts with minimal effort and maintain the status quo suggests Status Quo Bias.","The user exhibits a biasing behavior characterized by a cautious and conservative approach to investing, driven by a desire to minimize losses and effort, while also displaying overconfidence in their limited knowledge of specific stocks and investment products."
+12opcnl,tony_boxacannoli,"Quicken alternative ?
+
+I've been using Quicken forever...my current edition is 2009 ðŸ˜¯...it still works. 
+
+Having just bought a new computer...and not remembering where I put the Q2009 disc...it seems Quicken has gone the way of everyone else and it is now a subscription based service. 
+Obviously, that conflicts with my cheap ways.
+
+Any alternatives to Quicken?","Status Quo Bias, Sunk Cost Fallacy","The user's statement reveals a strong attachment to their current financial management tool, Quicken, simply because they have been using it ""forever."" This indicates a Status Quo Bias, as they are resistant to change and prefer to stick with what they know, even if it's outdated. Additionally, the user's mention of having used Quicken since 2009 and it ""still working"" suggests a Sunk Cost Fallacy, as they are factoring in past investments (time and possibly money) into their decision, rather than focusing on the current needs and potential benefits of alternative solutions.",The user exhibits a tendency to cling to familiar financial tools and services due to a combination of comfort with the status quo and a reluctance to abandon past investments.

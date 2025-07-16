@@ -1,0 +1,147 @@
+post_id,user_name,input_text,detected_biases,reasoning_paragraph,bias_summary
+110af16,SeparateFly,"I bought an I-bond back in October 2022 from the US Treasury website, how can I find how much its worth right now?
+
+I bought an i-bond through the US Treasury website back in October 2022. Since then, I have been wondering how much it has accrued. I do see a calculator on the Treasury website, but it is for paper bonds only. How can I find accrual rates for bonds purchased electronically? Thank you",None,"The statement expresses a genuine inquiry about tracking the value of an I-bond purchased electronically from the US Treasury website. The individual is seeking information on how to find accrual rates for electronically purchased bonds, as they are aware of a calculator available for paper bonds but not for electronic ones. There is no indication of any biased thinking or irrational financial decision-making in this query. The person appears to be taking a rational and informed approach to understanding their investment.",The user's inquiry does not exhibit any apparent biases in their financial decision-making behavior.
+113k8it,SeparateFly,"For RSU shares that are withheld for taxes, how do you know the tax rate is correct?
+
+When my RSUs are released to me by my company, they usually use withhold exactly 30% of the shares to pay for taxes. However, it seems to me this 30% tax rate is somewhat arbitrary, and that my effective tax rate could be different. Do you know how I can figure out if the 30% was too much and if I am due for a refund? Or would 30% be the actual RSU tax rate? Thanks.","Anchoring, Status Quo Bias","The user's inquiry about the tax rate for RSU shares withheld for taxes reveals potential biases. The user assumes that the 30% tax rate used by their company is ""somewhat arbitrary"" and questions its accuracy, which may indicate an Anchoring bias. The user is using the company's predetermined rate as a reference point and then wondering if it's correct, rather than independently determining their tax rate. Additionally, the user's acceptance of the 30% rate as a potential ""actual RSU tax rate"" without critically evaluating it suggests a Status Quo Bias, where they are inclined to default to the existing or provided information rather than challenging it.","The user exhibits a tendency to rely on provided information as a reference point and accept it as a default, indicating biases towards Anchoring and Status Quo Bias."
+14ln61l,SeparateFly,"If I just turned 60, can I take out an existing variable annuity and put it into an IRA?
+
+I just turned 60, and had a variable annuity plan since 2010 that hasn't done so well over the years. I was hoping to take out the entire amount and manage it myself. Since I turned 60, I was told by the advisor I would only have an M&E fee and no surrender fees. 
+
+I am wondering if it would be possible for me to open an IRA account and transfer it directly into the IRA? Would there also be any issues with taxes if I withdrew the entire account into cash first? Thanks.","Status Quo Bias, Present Bias, Authority Bias","The statement reveals several biases. The individual is considering a change to their existing variable annuity plan, which they've had since 2010, but are dissatisfied with its performance. However, they seem to be hesitant to make a change, as evidenced by their inquiry about transferring the annuity to an IRA rather than simply withdrawing and closing the annuity. This suggests a Status Quo Bias, where they prefer to maintain the current state rather than making a change. Additionally, the fact that they're considering withdrawing the entire amount and managing it themselves at age 60 implies a Present Bias, prioritizing short-term control over long-term considerations. Lastly, the individual mentions being ""told by the advisor"" about the M&E fee and surrender fees, indicating a reliance on the advisor's authority and potentially an Authority Bias.","The user exhibits a tendency to favor maintaining the current state of their financial plan, prioritize short-term control, and rely on authority figures, indicating biases towards maintaining the status quo, prioritizing present desires, and trusting authority."
+17h89x1,SeparateFly,"Is it wise to use SGOV almost like a savings account?
+
+I have money in SGOV that otherwise would be in a savings account. The difference is that I cannot access my money in SGOV without selling the stock and transferring it out. I am concerned this might create headaches when it comes to tax season. Is it feasible to easily liquidate SGOV when you need it?","Status Quo Bias, Loss Aversion","The user's statement reveals a bias towards maintaining the current state of their finances, as they consider using SGOV ""almost like a savings account,"" implying a preference for the familiar over a potentially more suitable option. This suggests a Status Quo Bias, where the user is inclined to stick with the current situation. Additionally, the user's concern about accessing their money in SGOV and potential headaches during tax season indicates a fear of loss or inconvenience, characteristic of Loss Aversion. The user is weighing the benefits of using SGOV against the potential drawbacks, but seems hesitant to fully commit to it, likely due to a reluctance to deviate from their current financial setup and a concern about potential losses.","The user exhibits a tendency to favor the current state of their finances and is averse to potential losses or inconvenience, indicating a bias towards maintaining the status quo and avoiding losses."
+17hn256,SeparateFly,"Need to understand the tax implications of a Backdoor Roth IRA transfer, where can I look to find someone well-versed in this area?
+
+I am trying to do a Traditional to Backdoor Roth IRA transfer, with the caveat that my Traditional IRA contributions have grown since I started it in 2021. Everyone, including brokerages, suggest I speak with a Tax Advisor on this. 
+
+However, my CPA charges nearly $400 an hour for consultation, and it is not guaranteed they are experts in this transfer. Additionally, it seems the financial advisors I've reached out to want you to invest the entirety of your money with them. Is there a place I can get solid advice on Backdoor Roth IRAs at a reasonable rate? Thanks!","Authority Bias, Status Quo Bias, Framing Effect","The individual seeking advice on a Backdoor Roth IRA transfer exhibits Authority Bias as they are hesitant to consult with their CPA due to the high hourly rate of $400, implying a bias towards avoiding expert advice due to cost. Additionally, the individual displays Status Quo Bias by being cautious about seeking advice from financial advisors who may require them to invest with them, suggesting a preference for maintaining their current financial situation. The Framing Effect is also present, as the individual frames the cost of consulting with their CPA as ""nearly $400 an hour"" and notes that it is ""not guaranteed they are experts,"" highlighting the negative framing of the cost and uncertainty.","The individual exhibits a tendency to be influenced by the perceived authority and cost of financial experts, while also being cautious about changing their current financial situation."
+17jnf6b,SeparateFly,"Received an unknown mystery direct deposit titled ""Benefit Payment, EDI Pymnts"", does anyone know who it might be from?
+
+I received a direct deposit of nearly $100 in my checking account titled  
+BENEFIT PAYMENT DES:EDI PYMNTS ID:XXXXX51864 PPD  
+After much investigation, I am unable to figure out who it is from. Does anyone have any idea what this typically looks to be from or if anyone has received something similar before? Thanks",None,"The statement provided does not exhibit any clear evidence of financial decision-making biases. The individual is simply inquiring about the source of an unexpected direct deposit, seeking information and clarification. There is no indication of biased thinking, emotional influence, or irrational decision-making. The person's actions are driven by curiosity and a desire to understand the origin of the deposit, rather than being swayed by cognitive biases.",The user does not display any apparent biasing behavior in their inquiry about the unknown direct deposit.
+1815bqa,SeparateFly,"Seeking Advice: Use my Savings to Pay Off Student Loans at 6% or Mortgage a New Home?
+
+I'm torn between two financial decisions and could use some advice. This is my situation:**Debt:** $160K student loans at average of 6% interest.**Income:** $250K/year.**Savings:** $210K in stocks and cash.
+
+**Two Options:**
+
+1. **Pay off the student loans:** This would save me from ongoing 6% interest payments and free me mentally.
+2. **Buy a home:** Considering a home in the $800K-$900K range, with a $210K down payment. The mortgage interest would be around 7-8%, but I could house hack and rent out a room. Still, the student loans remain. My rationale for considering a home purchase is that the rent I've paid over the years could have potentially gone towards owning a property by now.
+
+I guess a best scenario might be purchasing a home now and crossing my fingers for a decrease in interest rates in the near future. This could potentially allow me to refinance both the mortgage and student loans at a lower rate.
+
+What's would you think is the smarter move here? And is there a third one you'd propose? Insights are greatly appreciated, thanks!","Loss Aversion, Framing Effect, Present Bias, Sunk Cost Fallacy","The individual is exhibiting multiple biases in their financial decision-making. Loss Aversion is present as they prioritize paying off the student loans to ""save"" themselves from ongoing 6% interest payments, indicating a fear of loss. The Framing Effect is also evident as they frame their decision to buy a home as potentially allowing them to ""not waste"" rent payments on renting, rather than objectively evaluating the costs and benefits. Additionally, Present Bias is observed as they prioritize short-term mental relief from paying off student loans versus long-term financial implications. Lastly, Sunk Cost Fallacy might be influencing their thought process as they consider past rent payments as a rationale for buying a home, implying that they feel they have ""lost"" that money already.","The individual tends to make emotionally-driven financial decisions, prioritizing short-term relief and mentally accounting for past expenses, rather than taking a purely objective, long-term view."
+1818av9,SeparateFly,"Need to sell a lot of RSUs, what is the best strategy to do so with regards to taxes?
+
+I have worked at a large tech company for nearly 3 years now and have not yet sold any of the RSUs. I know this goes against advice here of selling right away.
+
+I have around $150k of the companyâ€™s stock and itâ€™s been up 20% over the past two years and around 30% this last year. This means most of my grants have gains and long term capital gains taxes.
+
+I am trying to sell them to pay off student loans, but am unsure what the best strategy would be for selling. For example:
+
+1) Do I try to sell some off before 2024, and some after 2024, to reduce capital gains taxes in 2023 and 2024?
+
+2) How do I estimate how much taxes are owed when I sell a vest and how do I make sure I withhold enough?
+
+3) My CPA said they could prepare a sensitivity analysis type report for me on optimal selling, for ~$1k, is this worth it?
+
+Thanks for any advice ðŸ™","Status Quo Bias, Loss Aversion, Present Bias","The statement exhibits Status Quo Bias as the individual has held onto the RSUs for nearly three years, despite going against advice to sell right away, indicating a tendency to maintain the current state. Loss Aversion is also present, as the person is hesitant to sell and realize gains, possibly due to the fear of losses or taxes associated with selling. Additionally, Present Bias is evident, as the individual is focused on short-term needs (paying off student loans) and is seeking strategies to minimize taxes in the current and upcoming years, rather than taking a long-term perspective.","The user tends to exhibit a cautious and short-term focused approach to financial decision-making, often prioritizing immediate needs and maintaining the status quo over taking proactive steps to optimize their financial situation."
+1844jwb,SeparateFly,"Is the Traditional or Roth 401k plan better for my employer matched account?
+
+I currently have a Traditional 401k plan and my employer matches 75% of up to 6% of my base pay, which is $160,000. I have had this matching for about 2.5 years now, and my account is worth $35,000. 
+
+Today I learned about the Roth 401k plan, and was wondering if this was generally better to go than the Traditional? I am currently 35 years of age, with a total salary of around $250k a year. Thanks in advance.","Status Quo Bias, Present Bias","The user is inquiring about switching from a Traditional 401k plan to a Roth 401k plan for their employer-matched account, but their question is framed around whether the Roth 401k plan is ""generally better"" without thoroughly evaluating their current situation and future financial goals. This suggests a Status Quo Bias, as they seem hesitant to deviate from their current plan. Additionally, the user's focus on their current age, salary, and account value may indicate a Present Bias, as they might be prioritizing short-term considerations over long-term implications of their decision.","The user exhibits a tendency to favor maintaining their current financial plan and prioritizing short-term considerations, indicating biases towards the status quo and present circumstances."
+18hwhh2,SeparateFly,"Is an HSA only available at employers through a higher deductible health insurance plan?
+
+I get my health care through my employer who offers a variety of health care insurance options. I have some medical needs and so usually I choose a PPO plan with the lower deductibles. From what I understand this disqualifies me from having an HSA or matching. However, I am wondering if this is actually the case and if I would be able to get an HSA regardless? I currently do have an FSA. Thanks","Confirmation Bias, Status Quo Bias","The statement exhibits Confirmation Bias as the individual seems to have a preconceived notion that having a PPO plan with lower deductibles disqualifies them from having an HSA, and they are seeking confirmation or disconfirmation of this belief. Additionally, the individual's tendency to stick with their current plan, a PPO with lower deductibles, due to their existing medical needs suggests Status Quo Bias, as they appear to be favoring the familiar and current option over exploring alternative possibilities, such as a higher deductible plan that could enable an HSA.","The user displays a tendency to seek confirmation of their existing assumptions and a preference for maintaining their current healthcare plan, indicating biases towards confirmation and the status quo."
+18upo9q,SeparateFly,"To pay off student loans should I sell vested RSUs for short term gains or use my cash savings?
+
+I have about $100,000 of student loans which are currently at something like 6.8%. I can pay them off by either:
+
+1. Selling off vested RSUs I have through my company, though they will be short term gains
+2. Using brokerage cash savings I have
+
+Which of the two would seem better? ","Framing Effect, Mental Accounting","The user's question implies a consideration of two distinct sources of funds to pay off student loans: selling vested RSUs (which would incur short-term gains) versus using cash savings. This framing presents the decision as a trade-off between incurring short-term gains tax and depleting cash savings. A more neutral framing might consider the after-tax value of the RSUs and compare it directly to the cash savings. Additionally, the user seems to be mentally accounting for the RSUs and cash savings separately, implying that they view these sources of funds as distinct and not fully fungible. This could lead to an irrational preference for one option over the other based on the mental account rather than a pure consideration of costs and benefits.","The user exhibits a tendency to frame financial decisions in a way that emphasizes specific, potentially misleading distinctions, and to mentally compartmentalize funds, indicating biases related to Framing Effect and Mental Accounting."
+10n3zy3,shaselai,"How much am I missing out on one lump sump company 401k contribution vs biweekly?
+
+I have an offer that the company will give 9% 401k contribution every January even if i don't contribute (always 9% of my salary) and its 100% vested. 
+I have another offer that has 5% 401k vesting period 2 years but the payment is bi-weekly.  
+
+Given everything else is equal, how much am I at risk or how much benefit is there to opt for offer 1 vs offer 2 in terms of 401k? Is the % difference worth it and also the missing compound interest as well... not sure how I can figure those in to compare... thanks.","Present Bias, Mental Accounting","The user's statement reveals a Present Bias, as they are focused on the immediate benefit of the 9% lump sum contribution versus the biweekly 5% contribution, and are uncertain about how to factor in compound interest. Additionally, Mental Accounting is present, as the user is separately considering the two offers and trying to compare them, potentially treating the 401k contributions as a distinct mental account rather than a unified view of their overall financial situation. The user's hesitation to opt for one offer over the other suggests that they are weighing the immediate benefits and potential long-term gains, but may be struggling to accurately assess the trade-offs.","The user exhibits a tendency to prioritize short-term benefits and struggle with evaluating long-term trade-offs, indicative of Present Bias and Mental Accounting biases."
+112c0ve,shaselai,"Is the PPO worth it or the HD plan for the current insurance?
+
+Starting a new job soon and have a selection of the following insurance with PPO and HSA plan:
+
+PPO(700 annually more):
+
+Deduc: 750, 2000 max
+
+Copay 20/40 (primary/spec)
+
+ER: 200(waived if admitted)
+
+20% after deductible
+
+HD:
+
+Deduc: 2000, 5000 max
+
+20% after deductible
+
+&amp;#x200B;
+
+I do have a standing weekly session (out of pocket 100 if using HSA vs 40 copay). 
+
+Is the HSA still worth it?",None,,The user exhibits a tendency to favor maintaining their current insurance plan (Status Quo Bias) while also compartmentalizing their expenses (Mental Accounting) and being influenced by the way information is presented (Framing Effect).
+11h2ghu,shaselai,"Not sure where to invest next after 401k/hsa/ira - need some advice
+
+So I am 40, have maxed out my 401k, hsa, ira and did recently buy a home so I have real-estate covered. I always try to have 5k in account at all times.
+
+Debts:
+
+Mortgage is 3% for 28 years (3400/month)
+
+5k left in student loans (&lt;3%)
+
+ 5k in 0% credit card running till end of year.
+
+Solar Panel debt of 16k on 3% for 30 years. (did get 5kish from federal credit I could use to pay some off or keep)
+
+&amp;#x200B;
+
+ I did read the FAQ and it kind of gets into various specific investment types.
+
+1. 529 - I live in virginia and still single, no kids. Now I do want kids so is it risky start putting money in here?
+2. Brokerage account - CDs/TDF/Index ?
+3. Save for engagement ring for future?(no girlfriend yet but do want to settle down)
+
+I don't think small business/entrepreneurship is for me though. I also don't feel I am in dire need to pay off existing debts especially if at a minimum i put money in CD which now is \~5%...
+
+Any advice?","Status Quo Bias, Present Bias, Mental Accounting","The individual has maxed out their tax-advantaged accounts (401k, HSA, IRA) and is seeking advice on where to invest next. However, they seem hesitant to aggressively pay off their debts, particularly the solar panel debt of $16k at 3% interest, and instead consider investing in a CD or other investment options. This suggests a Status Quo Bias, as they are reluctant to change their current financial situation and prioritize debt repayment. Additionally, their consideration of saving for an engagement ring despite not having a girlfriend yet and prioritizing short-term savings goals over debt repayment indicates a Present Bias, prioritizing short-term goals over long-term financial optimization. Furthermore, their mental accounting of separating their finances into distinct accounts (e.g., saving for an engagement ring) and considering different investment options (e.g., 529 plan, brokerage account) suggests a Mental Accounting bias, where they are treating different types of money differently.","The individual tends to prioritize the status quo, short-term goals, and separate mental accounts, leading to a conservative and fragmented approach to financial decision-making."
+12qw4t2,shaselai,"Question about Treasury Direct maturity and timing on purchases
+
+I am trying to do a Tbill ladder and i noticed that i have my 4 and 8 week tbills maturing on 5-16,6-13 respectively and the 17 week tbill i want to build the ladder with has an issue date of 5-16, and 6-13 as well. I believe the issue date is when my bank's money is drawn (as seen today 2 bills issued and my funds drawn) but I am curious if maturity date will deposit funds just as quick? 
+
+I don't want to get into situation where it tries to draw funds that havent been deposited yet and I get some overdraft fee... would it be better to delay the tbill purchases by a week?
+
+Thanks!",None,,"The user tends to prioritize short-term concerns and recent experiences when making financial decisions, often focusing on avoiding immediate risks and losses."
+12t7pb8,shaselai,"Should I jump to new Chase credit card offer from my existing Citi ecosystem?
+
+ 
+
+Currently I have Citi Premier(annual due Aug) + Double cash and \~190K points.
+
+I do see the recent promotion for 90k points for Chase Sapphire credit card (I am eligible). I am wondering if it is worth switching the ecosystem to Sapphire + Ultimate from my current Premier + double cash?
+
+I do use premier for restaurants and gas a lot and double cash for other purchases. I don't travel much at all but I do hear Chase has better travel overall if I do travel.
+
+So couple of questions:
+
+1. Should I take the 90k offer or wait for the 100k or just not at all?
+2. If I do switch, how should I use the 190k points? One of the ""splurge"" goals is to go on the first class Emirates but not sure if it is the best idea...
+
+Thanks!",None,,"The user tends to favor maintaining their current financial setup and mentally compartmentalizes their funds, which may lead to suboptimal decisions driven by a reluctance to change and an excessive attachment to accumulated rewards."

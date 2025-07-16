@@ -1,0 +1,444 @@
+post_id,user_name,input_text,Loss_Aversion,Intensity,Reasoning
+fddw88,chargum,"With 10 Year Treasury Bill at a RECORD LOW 1% dividends in Bond Funds will drop to near zero
+
+Most of us old folks who are retired have 40-60% of our portfolio in Bond Mutual Funds and ETF's.  Typically much of their return is the monthly dividends.  With Treasury Bills near 1%, the dividend yields will eventually crash and hurt returns.  Right?
+
+Intermediate Bond Funds seem scary now after great returns during the last two years.  Or maybe they will do fine as the ten-year treasury drops to ZERO and then the problems start with basically no dividend. ",Yes,Mid,"**
+- **Future-oriented worry: 0.8** ? ""dividend yields will eventually crash"", ""problems with basically no dividend"" ? The author explicitly expresses concern about future performance and potential loss of income, indicating a significant worry about losses.
+- **Fear-related emotion: 0.6** ? ""hurt returns"", ""seem scary"" ? The emotional tone suggests concern but does not dominate the post.
+- **Holding losses / Status quo bias: 0.3** ? The mention of uncertainty about the future performance of bond funds implies a leaning towards holding but does not strongly indicate an unwillingness to sell.
+
+**Conclusion:** 
+The post exhibits Loss Aversion primarily through future-oriented worry about potential decreases in dividend yields and the emotional tone of concern. While the author does not directly state an action they are unwilling to take (like selling), the worry about holding bond funds and the potential for ""no dividend"" suggests a discomfort with the prospect of realizing losses, either through direct loss of principal or through reduced income. The presence of multiple, albeit mild, indicators leads to a classification of Loss Aversion with a Mid intensity.
+
+**Loss Aversion: Yes**
+**Intensity: Mid**"
+feb3di,chargum,"Will Junk Bond Interest/dividends drop along with the 10 Year Treasury Bond.
+
+The return on a 10 Year Treasury Bond is dropping to near 0%.  With all types of treasury bonds at a record low, who will this impact the interest rates of all kinds of corporate bonds?  I am especially interested in junk B and C rated bonds.  But also how the rapid drop in Treasury Bonds will impact all types of Corporate Bonds.",No,None,
+feb6s6,chargum,"2 Weeks Ago I almost moved all my stock investments to a total bond fund..............
+
+I am in my mid-60s and semi-retired and may not have much time to wait this out, so I came so close to moving all my money in a total stock fund to a total bond fund.  I had my finger on the keyboard button and chickened out.  I felt like something was terribly wrong and thought the smart thing to do was get out of stocks and into a total bond fund until a vaccine for the virus was developed and available to everyone.  I pictured a 60% drop in the stock market and an incredible buying opportunity in mid to late 2021.
+
+But I chickened out and did not push the button on my keyboard to change my investment and kept nearly a million dollars in my retirement account in a total stock market fund.  Now that the situation appears to be out of control, was I the biggest dummy in the world?  Or a genius?",Yes,Mid,"**
+
+- **Holding losses/Status quo bias: 0.6** ? ""chickened out"" and ""did not push the button"" ? The author had a strong urge to change their investment strategy to avoid potential losses but hesitated and ultimately did nothing, indicating a preference for inaction to avoid the possibility of loss.
+- **Fear-related emotion: 0.8** ? ""I felt like something was terribly wrong"", ""chickened out"", ""was I the biggest dummy in the world?"" ? The author expresses fear and regret over their inaction, showing emotional discomfort.
+- **Temporal references: 0.4** ? ""2 Weeks Ago"", ""until a vaccine for the virus was developed and available to everyone"" ? The author references a specific time frame and event (vaccine development) to justify their potential decision.
+- **Comparative framing: 0.3** ? ""Or a genius?"" ? The author questions their decision in hindsight, comparing their potential outcomes.
+
+**Conclusion:** 
+The post reflects Loss Aversion bias as the author strongly considered but ultimately failed to take action to avoid potential losses, exhibiting fear of realizing a loss and a bias towards maintaining the status quo. The presence of fear-related emotions and a significant weighing of potential outcomes also support this conclusion. The intensity is classified as Mid due to the clear presence of multiple but not extreme indicators of Loss Aversion."
+fg05li,chargum,"ULTRA SHORT TERM BOND FUNDS crashed today
+
+I have been following share prices of the ultra short term bond funds for years and have never seen them drop so much in a few hours.  GSY and NEAR, which many people use as a cash equivalent, were down as much as 1/2 of one percent.   NEAR dropped a lot more. This is a huge crash for this type of investment.
+
+Ideas on why GSY, an ultra short term bond fund, dropped so much today?  Since 2009 the biggest drop of GSY is .37.  So this is the biggest fall since the great recession.",No,None,"**
+
+The post does not reflect a personal investment decision. It appears to be an informational post discussing a market event (the crash of ultra-short term bond funds) and asking for ideas on why a specific fund (GSY) dropped in value. There is no indication of a personal investment action, emotional reaction, or future-oriented thinking with signs of planning, worry, or conditional decisions.
+
+As the post does not meet the criteria for a personal investment decision, we do not proceed to Step 2. Therefore, we conclude that:
+
+- **Loss Aversion: No**, because the post is informational and does not relate to a personal investment decision that could be influenced by loss aversion or other biases.
+- **Intensity: None**, as there are no decision-relevant elements in the post to assess for intensity.
+
+**Conclusion:** The post is purely informational, discussing a market event without expressing a personal investment decision or emotional reaction related to loss aversion. Therefore, we classify it as not reflecting loss aversion bias."
+fg0s85,chargum,"Corporate Bond ETF's and Mutual Funds biggest one day drop ever
+
+Corporate Bond ETF's and Mutual Funds are known as having a bit more volatility than Bond Funds like AGG and BND- which have mostly grade A Treasury Bonds- but today's loss of bond funds like LQD and HYG was close to the crashing stock funds. LQD is down 2.29% and HYG is down over 4%. Have you ever seen a one day drop of these previously relatively safe bond funds?",No,None,
+fhdk9g,chargum,"Many of my friends in the Investment Club are cutting their losses and selling all their stocks and mutual funds
+
+I belong to an investment club connected with a megachurch.  Most of the members are baby boomers. One of the main pieces of advice given to us by a wide variety of speakers is to not sell your stocks in a panic during a bear market or even in a huge market crash.  (Such as 2000-2002 or 2007-2009)  Instead, during a bear market, we should be buying stocks not selling them.
+
+During the first 10 days of this crisis, we all were cocky and acted like this was not a big thing.  But as the stock market kept falling and it appeared our political and business leaders were failing us, more and more members of the club reported that they had sold most or all of their stock investments and went to bond funds.
+
+Now the Bond Market has even turned against us.  During the last 5 days, I have seen drops in bond mutual funds that were more extreme than even the Great Recession.  Even ultra-short bond ETF's like GSY has dropped in value significantly.
+
+Many members of the Investment club are saying- THIS TIME IS DIFFERENT- and wish they would have gone to all-cash 2 weeks ago but some are holding out selling because they are already down significantly and are too proud to move from paper losses to real losses.",Yes,Mid,"**
+
+* **Holding losses: 0.6** ? ""some are holding out selling because they are already down significantly and are too proud to move from paper losses to real losses"" ? This phrase indicates that some members of the investment club are reluctant to sell their stocks or mutual funds because they don't want to realize their losses. This is a classic example of loss aversion, where individuals prefer to hold onto losing positions to avoid the pain of locking in a loss.
+* **Fear-related emotion: 0.4** ? ""Many members of the Investment club are saying- THIS TIME IS DIFFERENT- and wish they would have gone to all-cash2 weeks ago"" ? This phrase suggests that some members of the club are experiencing fear and regret, which are emotions commonly associated with loss aversion. They are worried about the current market situation and wish they had taken action earlier.
+* **Status quo bias: 0.3** ? ""some are holding out selling"" ? This phrase implies that some members of the club are inclined to do nothing and maintain their current positions, rather than taking action to mitigate potential losses.
+
+**Conclusion:** 
+The post reflects a personal investment decision and exhibits characteristics of loss aversion. Some members of the investment club are holding onto losing positions to avoid realizing losses, which is a key trait of loss aversion. Additionally, the post mentions fear and regret, which are emotions that can drive loss aversion. While the intensity is not extremely high, the presence of multiple traits with weights above 0.3 suggests a mid-level intensity. Overall, the post demonstrates a clear example of loss aversion bias."
+fig2jf,chargum,"If most people are afraid to leave their home how can the economy not go into a deep depression and crash the stock market further
+
+The last few days seem like a turning point regarding the psychology of America.  People are now finally ready to hide in their homes until the virus goes away.  Almost a thousand people in line at the local Costco waiting to buy a month of groceries.  Nearly everyone I talk to is planning to work from home- as long as they have a job- and not leave their house for the foreseeable future.  
+
+Everything is closed. Retail stores and maybe entire regional shopping centers are planning on closing putting millions out of work. People are afraid to travel and be within six feet of anyone but their immediate family. This could go on for six to twelve months.
+
+How can our society and economy support this level of fear?  Won't the stock market drop to incredibly low levels as people hunker down?  Why would anyone buy stocks now?",Yes,Mid,"**
+- **Fear-related emotion: 0.8** ? The post is permeated with concern and fear about the economic and societal impact of the pandemic, indicating a high level of emotional discomfort.
+- **Status quo bias: 0.6** ? The rhetorical question about buying stocks now implies a bias towards inaction due to fear and uncertainty.
+
+**Conclusion:** 
+The post exhibits Loss Aversion bias, primarily driven by fear-related emotions and a bias towards the status quo (inaction). While the post does not directly discuss personal investment decisions or the act of holding onto losing investments, the expressed fears and implied preference for inaction in the face of uncertainty are indicative of Loss Aversion. The intensity is classified as Mid due to the presence of significant fear-related emotions and a moderate level of status quo bias."
+flsydn,chargum,"I will never buy a Bond ETF or Mutual Fund again!
+
+Lost in the discussion about the rapid loss in stocks and stock mutual funds and ETF's is the incredible loss in many bond mutual funds and ETF's.
+
+Bond Funds were supposed to be a counterweight to stocks in a bear market!  While the Bond Funds and ETF's did not fall as much as stocks the decrease in their price per share in the last 30 days has been more than anytime in history.
+
+Here are some examples:
+
+FTBFX (Fidelity Total Bond Fund) Down 9.23%
+
+PONAX (Multi-Sector Bond) Down 12.27%
+
+GSY ( Ultra Short Bond Fund- Known as a cash equivalent ) Down 5.2%
+
+AGG (Total Bond ETF)  Down 4.2%
+
+LQD (Corporate Bonds) Down 29.22%
+
+HYG (Corporate Bond) 18.93%
+
+Go to websites like Portfolio Visualizer and you will see there has never been drops like this ever!",Yes,Mid,
+fqigoi,chargum,"There is talk that my pension and annuity is at risk now
+
+I have been reading many articles about how the stock and bond market will crash many pension plans and also even impact annuities.  Many pensions and annuities will fail if most businesses stay closed into the summer. I am wondering how to survive this.  I wish I could get my pension in a cash settlement before it is too late.",,,"**
+- **Fear-related emotion:** 0.8 ? ""I am wondering how to survive this"", ""I wish I could get my pension in a cash settlement before it is too late"" ? High level of worry and concern.
+- **Future-oriented worry:** 0.7 ? ""Many pensions and annuities will fail if most businesses stay closed into the summer"", ""before it is too late"" ? Significant concern about future risks.
+- **Status quo bias:** 0.3 ? Minimal indication of preferring inaction; the post focuses more on taking action to avoid potential losses.
+
+**Conclusion:** 
+The post demonstrates Loss Aversion bias, primarily through the expression of fear and worry about potential future losses to pension and annuity. The individual is considering taking action (seeking a cash settlement) to avoid these potential losses, indicating a discomfort with the possibility of loss. The intensity is classified as Mid due to the presence of clear worry and future-oriented thinking, with less evidence of strong status quo bias or other Loss Aversion traits."
+14qutwp,CHB12312,"Best way to fill out W4 2023 married filing jointly with some upcoming life changes
+
+So I am having some upcoming life changes, and was hoping I could get some advice on filling out the 2023 W4. My end goal would be to get as close to not owing, but also not having too much of a refund at the end of the years as possible. Although, it doesn't need to be perfect. I just do not want it weighed heavily one way or the other. 
+
+I am currently married and file jointly. I am making \~130,000/year and my spouse makes \~75,000/year. We have 1 dependent. We have some changes coming up, and I plan to redo both of our W4s. 
+
+Starting next week, my spouse will be starting a new job making \~230,000-250,000/year. My spouse is pregnant and will only be working at the new job for about 3-6 weeks before needed to take a 3 month leave. After 3 months, my spouse will return to work full time at the job with the above salary. Obviously this will also increase our dependents to ""2"" come 3-6 weeks from now. 
+
+My question is, what would be the best way to fill out our W4s to get as close to my original goal as possible? I am pretty new to the new W4s and am a bit confused. I am also not sure how my spouse taking a 3 month leave should be taken into consideration when adjusting our W4s. Will this change the timing of when to submit new W4s, etc.? A lot of threads say to use the calculator, but it requires things like paystubs, but we won't have access to these as this will be a brand new job. However, my spouse will need to fill out a W4 prior to employment within the next week. 
+
+Any advice would be much appreciated! The more detailed, the better as I will also use this as a learning situation to be able to better adjust these W4s going forward as well. Thanks!",No,None,"** The post is informational, and no personal investment decision is detected. The author is seeking advice on tax withholding and planning, which is a different context from investment decisions.
+
+As there is no personal investment decision detected, I will not proceed to Step 2. 
+
+However, if I were to analyze this post for potential Loss Aversion traits in a different context (e.g., a post about selling or holding investments), I would look for keywords and phrases that indicate Loss Aversion bias.
+
+In this case, I can conclude that:
+
+**Loss Aversion: No**
+**Intensity: None**
+**Reasoning:** No personal investment decision detected; the post is informational and focused on tax planning."
+14tp2yh,CHB12312,"Recommendations on personal finance podcasts/videos/books vs financial advisor
+
+I was looking for some advise/recommendations regarding personal financing with some major changes that are happening in my life. I currently average 130k a year. I have two dependents (young children in daycare-AKA second mortgage) and my spouse is currently making \~70k a year but starting in a week will be making \~230-250k a year. We currently invest into our 401/403b and have a decent emergency fund on the side (as much as we can invest with currently having the costs of daycare/dependents). With my spouses income increasing significantly, we are obviously looking deeper into how to invest our money moving forward. It is important to note we also have \~350K in combined student debt for which we are about 5 years into PSLF payments (fingers crossed in 5 more years the remainder will actually be forgiven and we won't get screwed with an even higher balance after accrued interest)
+
+I was considering a financial advisor, but I have heard a lot of mixed opinions on whether it is worth it and I don't want to lose out on a lot of money long term. I also considered maybe seeing if a financial advisor could help screen over our situation and start a portfolio and then we take it from there for a flat fee (if this is a thing?). 
+
+However, I am also interested in learning more about personal financing myself. I feel like I have a decent understanding of the basics. I know to max out pre-tax accounts like 401k/403b first. Also maxing out the HSA (especially since I have dependents) which can also be used as a mini retirement account later in life. I have heard mixed things on backdoor roth (seems like some ppl say its worth the hassle, others think it is a minimal benefit for the work you put into it/risk of messing something up with taxes). So I keep going back and forth on whether to do this. However, when it comes to the more detailed stuff such as managing the stocks/bonds (what to put where) and then considering further investing of left over money in other index funds vs doing other things with the remaining money, this is where I feel less confident and don't want to make a detrimental mistake.
+
+I guess my question is... is is worth working with a financial advisor with our current situation/incomes? Or should I be doing more research and trying to manage it myself? If the consensus is to manage it myself, does anyone have any advice on the better books/podcasts/videos that can get me started in starting to research this stuff?
+
+Any advice is much appreciated!!",No,None,"**
+
+After carefully analyzing the social media post, I did not find any evidence of Loss Aversion bias. The post is primarily seeking advice on personal finance and investment decisions, but it does not exhibit any characteristics of Loss Aversion.
+
+Here's a breakdown of the analysis:
+
+* **Holding losses**: No keywords or semantically similar expressions were found, such as ""still holding"", ""bagholding"", ""can't sell"", or ""won't sell"".
+* **Temporal references**: No mentions of past losses or justifying current decisions based on previous experiences, such as ""since I lost"" or ""after the last crash"".
+* **Comparative framing**: No highlighting of what was lost versus what could have been gained, such as ""could have made"" or ""should have sold"".
+* **Status quo bias**: No preference for inaction to avoid the possibility of loss, such as ""better to wait"" or ""doing nothing is safer"".
+* **Endowment effect**: No overvaluation of assets simply because they are owned, such as ""feels wrong to sell"" or ""personal attachment"".
+* **Fear-related emotion**: While the author expresses some uncertainty and concern about making mistakes, the tone is more inquiring and seeking advice rather than emotional discomfort (fear, regret, anxiety).
+
+The author is seeking advice on how to manage their finances and investments, considering their changing income situation and dependents. They are weighing the pros and cons of working with a financial advisor versus managing their finances themselves. The post does not exhibit any Loss Aversion bias traits.
+
+**Conclusion:** The post is informational and seeks advice on personal finance and investment decisions. There is no evidence of Loss Aversion bias present."
+14x9wkj,CHB12312,"How to assure you are contributing maximum amount to 401k/403b
+
+I am looking to max out my 401k pre-tax deductions ($22,500). My question is, how to I make sure the maximum amount is taken out, and not more? When I go to the fidelity website, it only allows me to adjust my contributions to a % of my income. Lets say that if you theoretically make 100k/year, then that would be 22.5% of your income. However, I would want to make sure that the full amount is deducted. What would happen if i put 30% of my income? Would it automatically adjust it to some how make sure the maximum that is taken out is 22,500? Or how does that work? ",No,None,"**
+Since the post does not indicate a personal investment decision with emotional or justifying elements, it does not pass the decision relevance filter. The individual is seeking information on how to maximize their 401k contributions without exceeding the annual limit, which is a practical and informational inquiry rather than a decision influenced by behavioral biases.
+
+**Conclusion:** 
+The post does not exhibit any characteristics of Loss Aversion or other behavioral biases related to personal investment decisions. It is purely informational and seeks clarification on the mechanics of setting 401k contribution percentages to ensure maximization of the allowed deduction without exceeding it. 
+
+No traits were identified:
+- No mention of holding losses, temporal references, comparative framing, status quo bias, endowment effect, or fear-related emotions in the context of a personal investment decision. 
+
+Therefore, **Loss Aversion: No** and **Intensity: None**."
+14z3k9b,CHB12312,"Need help filling out W4
+
+I needed some recommendations on the best way to fill out our W4s. End goal is to get as close to breaking even as possible (not owe too much, but not get too big of refund). 
+
+Current situation: I make \~130k/year and my spouse was making \~80k/year. I believe we filled out the W4 by checking the 2(c) option on both of our W4s. We have both worked full time this year up until now. 
+
+Upcoming situation: I will continue to make \~130k/year. However, my spouse started new employment earlier this week and will now be making \~220-250k/year (170k base and the rest with call pay, productivity bonuses, etc.). The caveat is that my spouse will likely work 4-6 weeks and then be taking a 3 month leave for the birth of a child. After that, my spouse will return to work full time. 
+
+I am trying to decide the best way to fill out our W4s with this new change. I know to list the dependents on my spouses W4 (higher income W4). I hear the online calculator is the most accurate, however, my spouse won't get a pay check for \~ 3 weeks and even then it may not be the most accurate as it will be smaller than some other paychecks that will have call pay. 
+
+What would be the best way to go about filling out our W4s to achieve my original goal? Here are the options I was thinking:
+
+1: Using option 2(B) the multiple jobs worksheet as that uses both of our projected incomes. If I go this route, I believe we only fill this out on my spouses (higher income) W4, correct? And leave it blank on mine? 
+
+2: Using the 2C option. However, I have heard mixed opinions on this. Is our income difference too much for this option? If so, what would it result in? Withholding too much from our paychecks?
+
+3: Open to other opinions
+
+Appreciate the advice!  
+",No,None,"**
+
+After analyzing the social media post, I determined that it does not reflect a personal investment decision with emotional or behavioral biases related to Loss Aversion. The post is primarily seeking advice on how to fill out W4 forms to optimize their tax withholding situation, given changes in their income situation.
+
+The post does not exhibit any of the behavioral characteristics or keywords associated with Loss Aversion, such as:
+
+* Holding losses: There is no mention of holding onto underperforming assets or reluctance to sell.
+* Temporal references: No mention of past losses or justifying current decisions based on past experiences.
+* Comparative framing: No discussion of what could have been gained or missed.
+* Status quo bias: No preference for inaction to avoid potential losses.
+* Endowment effect: No overvaluation of assets due to ownership.
+* Fear-related emotion: No emotional discomfort, fear, regret, anxiety, or worry.
+
+The post is primarily informational and focused on seeking advice on tax planning and W4 form completion. The tone is neutral and inquiring, without any emotional or biased language.
+
+**Conclusion:** The post does not exhibit any Loss Aversion bias, as it is primarily focused on seeking advice on tax planning and does not involve a personal investment decision with emotional or behavioral biases. Therefore, Loss Aversion is not present."
+151lpk8,CHB12312,"Should I quickly max out 403b before the end of the year
+
+So my spouse just started a new job and the salary is going from 80k to ~230k. The yearly contribution to the 403b is currently around 7k from her previous job. Obviously we will have a pretty significant income jump. She will also have to take off 3 months. So she will essentially work a total of 3 months by the end of year. She is getting a pretty nice sign on bonus and I still work so money shouldn’t be an issue.
+
+Two questions..
+
+1) Is there a max per paycheck that you are aloud to contribute to your 403b?
+
+2) If the above answer is “no”… then does it make sense to start off with a large contribution towards her 403b (like 40%) for those 3 months to try and max out the rest of her 403b limit before the end of the year to try and take advantage of the pre-tax dollars and then switch back to a normal contribution in 2024? Or should we just contribute to it normally and do something else with the left over money and start making sure we max out the 403b starting next year?",No,Low,"**
+- **Status quo bias: 0.3** ? ""contribute to it normally and do something else with the left over money and start making sure we max out the 403b starting next year"" ? The author is considering maintaining a normal contribution pattern unless they decide to make a large contribution, which slightly suggests a preference for inaction unless a significant benefit is perceived.
+- **Temporal references: 0.2** ? Mention of planning for next year (""start making sure we max out the 403b starting next year"") ? This shows some future-oriented thinking but does not directly relate to Loss Aversion.
+
+**Conclusion:** 
+The post does not strongly indicate Loss Aversion. While there are considerations for future financial planning and maximizing tax advantages, there's no clear evidence of avoiding actions primarily to prevent a loss. The decision-making process seems more focused on strategic financial planning rather than being driven by the fear of losses. Therefore, Loss Aversion is not present in a significant manner."
+1526olu,CHB12312,"Is this normal: Mortgage principal
+
+We bought our house a few years back in early 2019. It was around 325k at the time with 4.375%. We didn’t put down a down payment as we didn’t have a lot of money saved (first home) and my wife was in residency (fixed income). We wanted a bigger house (we were renting) because we were having a baby at the time. We were able to get this house using a “doctors loan” knowing when my wife became an attending, income would significant change.
+
+It’s now 2023 and we still owe 295k. I was just reviewing our personal finances as she just became an attending physician and our financial situation has obviously changed. However I am shocked after almost 5 years of ~$2,200 payments that we still owe 295k. 
+
+I was looking at a mortgage statement form last month and it shows $500 towards principal, $1000 interest, ~$800 escrow. Seems crazy (although I understand without a down payment it will be higher). It just feels kind of defeating. 
+
+So I guess I have a few questions with with our upcoming lifestyle changes taking place. 
+
+1) From my research on this thread, I hear that typically you shouldn’t focus on paying down mortgage as it’s considered a low interest investment and money would be better focused elsewhere (such as maxing out 401ks, HSA, back door roths, etc). 
+
+But with us having never put down a down payment, should we save up and try and put down 15-20% to lower the total loan some so we are not paying so much in interest? Or just focus our extra money elsewhere?
+
+2) is this normal for only 1/4 of your total mortgage payment to actually go towards the principal? If so… that’s lame. If not, what could I be doing wrong?",Yes,Mid,"**
+
+* **Holding losses:** 0.6 ? The author is struggling to come to terms with the slow progress in paying down the mortgage, which indicates a loss aversion bias.
+* **Temporal references:** 0.4 ? The author is referencing past circumstances to contextualize their current situation, which may contribute to their loss aversion.
+* **Comparative framing:** 0.5 ? The author is comparing their situation to some implicit standard, which may indicate a sense of loss.
+* **Fear-related emotion:** 0.7 ? The author's emotional discomfort is a strong indicator of loss aversion.
+
+**Conclusion:** The post exhibits several characteristics of Loss Aversion, including holding losses, temporal references, comparative framing, and fear-related emotions. The author is struggling to accept the slow progress in paying down their mortgage and is seeking advice on how to proceed. The presence of multiple traits with weights > 0.4 and one trait with weight > 0.7 justifies a Mid intensity rating.
+
+Loss Aversion: Yes
+Intensity: Mid
+Reasoning:
+- Holding losses: 0.6 ? ""it just feels kind of defeating"" ? The author is experiencing emotional discomfort due to the slow progress in paying down the mortgage.
+- Temporal references: 0.4 ? ""we didn't have a lot of money saved (first home) and my wife was in residency (fixed income)"" ? The author is referencing past circumstances to contextualize their current situation.
+- Comparative framing: 0.5 ? ""Is this normal for only 1/4 of your total mortgage payment to actually go towards the principal? If so� that's lame"" ? The author is comparing their situation to some implicit standard.
+- Fear-related emotion: 0.7 ? ""it just feels kind of defeating"" ? The author is experiencing emotional discomfort.
+
+The author is exhibiting Loss Aversion bias, primarily driven by their emotional response to the slow progress in paying down their mortgage and their reluctance to accept the situation."
+152lpij,CHB12312,"Timing of buying an electric car
+
+So I just recently paid off my car. I have been wanting to purchase an electric car (likely Tesla Model 3), but I know cars are not a good investment and depreciate fast. I have been debating between keeping my paid off car for a couple years to save money without car payment. However, I have been going back and forth because of the $7500 tax credit. The issue is, if I don't buy this year, I will lose out on the tax credit because our household income will disqualify us next year. 
+
+Does it make sense to just go ahead and buy the car now while I still qualify for the $7500 tax credit, or would you guys still recommend just keeping the current paid off car? ",Yes,Mid,"**
+- **Comparative framing: 0.8** ? ""lose out on the $7500 tax credit"" and ""save money without car payment"" ? The poster emphasizes the loss and potential savings, indicating a significant concern over missing out on the tax credit and the financial implications of buying versus holding off.
+
+- **Fear-related emotion: 0.6** ? ""going back and forth"" and ""Does it make sense to just go ahead and buy"" ? The anxiety over the decision and potential regret if delayed shows a moderate level of emotional discomfort.
+
+- **Status quo bias: 0.5** ? ""debating between keeping my paid off car"" and ""would you guys still recommend just keeping the current paid off car"" ? The consideration of keeping the current car as a default option to avoid potential loss or hassle indicates a mild preference for inaction.
+
+**Conclusion:** 
+The post demonstrates Loss Aversion through the emphasis on not missing out on the $7500 tax credit (comparative framing), a sense of urgency and potential regret (fear-related emotion), and a bias towards maintaining the current financial status quo (status quo bias). The intensity is classified as Mid due to the presence of multiple, though not extremely strong, indicators of Loss Aversion. 
+
+**Loss Aversion: Yes**
+**Intensity: Mid**"
+1558auw,CHB12312,"Retirement account priorities
+
+Currently going through some career changes and looking to adjust our retirement contributions given some changes in pay. I currently make \~130k/year and my spouse will make \~230-250k/year. We have one child and soon to have another (AKA daycare mortgages). 
+
+This is my current plan, please let me know if there is any adjustments I could make/add to further optimize our portfolio. Obviously our long term goal is to set up a nice retirement, but I also don't want to invest so much that we have no disposable income to enjoy things given that we have worked so hard to get where we are financially. 
+
+For the year of 2024, this is my plan....
+
+Me: Max out my 401k, set up a ""backdoor roth"" and max this
+
+Spouse: Max out her 403b. Also set up and max out a backdoor roth for her. Her company also offers an additional 457 plan. ***Should we max out both her 403b AND 457 plan???***
+
+We also are going to be on a high deductible plan so we plan to Max out HSA contributions each year as well
+
+Lastly, I am planning to open up a high yields saving account to keep ""emergency fund"" and other shorter term goals 
+
+My questions:
+
+1) Should I max out both my spouses 403b AND 457? Is this overkill?
+
+2) Is there any changes you would make to this plan?
+
+3) Is it worth also opening up a brokerage account?
+
+4) With our incomes that I listed, do you think I will have any issue with this current plan? Again, taking into consideration I also don't want literally ALL of our money to just go to retirement. I do have a 295k mortage (\~2.3k/month), daycare for two children, and obviously other utilities/expenses. We also have a good amount of student loans, but we are currently 5 years into PSLF and we both work for non-for-profits so I plan to finish out the remaining 5 years to have these forgiven. ",Yes,Mid,"* **Status quo bias**: 0.6 ? ""I also don't want to invest so much that we have no disposable income to enjoy things given that we have worked so hard to get where we are financially."" ? The author prefers to maintain disposable income, indicating a bias towards inaction.
+* **Fear-related emotion**: 0.4 ? ""I do have a 295k mortgage (~2.3k/month), daycare for two children, and obviously other utilities/expenses."" ? The author expresses concern about managing expenses and maintaining a comfortable lifestyle.
+
+**Conclusion**: Loss Aversion is present, as the author exhibits a preference for maintaining the current financial situation and expresses concern about investing too much in retirement accounts, which may lead to a loss of flexibility or freedom. The intensity is Mid, as two traits are present with weights between 0.4 and 0.7."
+15i47jj,CHB12312,"Retirement accounts priority/question
+
+Currently married and our combined household income is ~360k/year. We do have ~300k in student loans (5 years into PSLF so hoping to have forgiven in 5 more years). 295k left of mortgage. We also have two children, one in daycare and another to soon be in daycare. 
+
+My job offers a 401k. My spouses job offers a 403b and also has the option for a 457 (due to my spouses higher income). We also have an HSA account. We are also considering back door Roth accounts for the both of us. 
+
+Ideally, I would like to max out my 401k ($22,500), my spouses 403b ($22,500), my spouses 457 (an additional $22,500), the HSA ($7500) and both of our back door roths (an additional $13,000).
+
+However, my concern is that so much of our income would be towards retirement, and we would have less disposable income. I also worry that if for some reason the PSLF didn’t work out, that all of that interest would accrue and all of our money would be tied up in retirement accounts and I wouldn’t have enough to flat out pay off the loans. What do you guys think?
+
+If I do decide to not max out every one of these options, what would be the priority of which ones we should max out first. Is doing the 457 with back door Roth overkill? Appreciate any advice.",Yes,Mid,"- **Holding losses/Status quo bias**: 0.6 ? ""worry that if for some reason the PSLF didn�t work out, that all of that interest would accrue and all of our money would be tied up in retirement accounts"" ? The author is cautious about locking funds into retirement accounts.
+- **Fear-related emotion**: 0.7 ? ""my concern is that so much of our income would be towards retirement, and we would have less disposable income"" and ""I wouldn�t have enough to flat out pay off the loans"" ? Emotional concerns about financial security.
+- **Comparative framing**: 0.5 ? ""If I do decide to not max out every one of these options, what would be the priority of which ones we should max out first"" ? Evaluating different financial priorities.
+
+**Conclusion**: Loss Aversion is present because the author exhibits behaviors and thoughts characteristic of loss aversion, such as a preference for maintaining liquidity to avoid potential losses (e.g., not having enough to pay off loans), fear of tying up money in retirement accounts, and concern about reducing disposable income. The intensity is classified as Mid due to the presence of multiple relevant traits with weights above 0.4 but not all exceeding 0.7."
+15ngtni,CHB12312,"Timing of retirement account enrollment
+
+So my spouse changed employers and they offer both a TSA (403b) and an additional 457 (since she is a high income earner). My spouse just started in July but is also off for 3 months due to Maternity leave. We enrolled in the TSA but given that we won’t have a lot of extra income for the remainder of the year due to her time off, we deferred the 457. We were planning to enroll in the 457 come the new year (2024) when our financial situation is different. 
+
+My question is… are we able to enroll in the 457 plan at any time? Are you only able to enroll during “open enrollment periods” like you are with benefits? If that’s the case, did I make a mistake by not just enrolling and contributing a very small amount and changing the contribution amount at the start of the new year? 
+
+There isn’t a possibility that since I deferred enrolling in the 457 during the start of employment that they could not allow up to enroll going forward is there?
+
+Thanks!",No,None,"** 
+The post seems to be seeking advice on planning and enrollment in retirement accounts. There is no indication of a personal investment decision made with emotion, panic, or regret.
+
+**Step 2: Bias Trait Detection (skipped since post is not decision-relevant)**
+
+Since the post is classified as informational and not decision-relevant, we skip Step 2.
+
+**Response Format:**
+
+Loss Aversion: No
+Intensity: None
+Reasoning: 
+- No traits detected ? The post is seeking advice on planning and enrollment in retirement accounts, with no indication of emotional decision-making or Loss Aversion bias.
+
+**Conclusion:** 
+The post does not exhibit Loss Aversion bias, as it appears to be an informational query about planning and enrollment in retirement accounts, without any indication of emotional decision-making or personal investment actions driven by Loss Aversion."
+15pm0a5,CHB12312,"Cobra Coverage Question
+
+So my spouse and I were covered under her health insurance through her employer. She left her job 7/10/23 and I switched over to my employers health insurance plan. She elected to stay on her plan via Cobra for the month of July because she was pregnant and due to deliver in July. She stayed on Cobra because she was close to her out of pocket max and if she switched to my health insurance, it wouldn’t have covered her delivering at the hospital she was planning to deliver. 
+
+She ended up delivering at the end of July. From my understanding you can terminate Cobra coverage at any time (pay on a monthly basis). I had called my HR before any of this happened and explained our situation. I asked if she terminated her coverage starting August 1st, if that would be considered a “qualifying life event” to allow me to place her in my employers health insurance. They told me that yes it would be because she is losing health coverage. We sent an email last week asking to terminate her Cobra after July 31st. 
+
+However, now I am doing further research, and many websites are saying that you can terminate cobra at any time, but this is NOT considered a “qualifying life event” and that you would not be able to be added to a spouses insurance plan unless it was during open enrollment or you had another qualifying event. This is NOT what my HR told me when I called. Is this true? If so, I have no idea what to do because we have now emailed Cobra asking to terminate and I am worried they are going to deny my attempt to get her on my health insurance and she is going to be left without health insurance until next open enrollment which would be terrible as she just had a baby and will likely need multiple follow ups. 
+
+What do I do? Is it true that this will not qualify as a life event and that I am not going to be able to get her on my insurance? If so, what options do I have. Do we try and call Cobra back on Monday and ask them not to cancel the coverage and just get screwed with $600 monthly payments until my next enrollment period?
+
+Appreciate any advice.",Yes,Mid,"**
+
+The post reflects a personal decision-making situation related to health insurance coverage, specifically regarding Cobra coverage and potential loss of coverage for the writer's spouse. 
+
+- **Fear-related emotion: 0.8** ? ""I am worried they are going to deny my attempt to get her on my health insurance and she is going to be left without health insurance"" ? The writer expresses anxiety about the potential consequences of terminating Cobra coverage, specifically the risk of leaving his spouse without health insurance.
+- **Status quo bias: 0.6** ? ""Do we try and call Cobra back on Monday and ask them not to cancel the coverage and just get screwed with $600 monthly payments until my next enrollment period?"" ? The writer is hesitant to take action (terminating Cobra coverage) and instead considers maintaining the status quo (keeping Cobra coverage) to avoid potential losses, even if it means incurring higher costs.
+- **Comparative framing: 0.4** ? ""If so, I have no idea what to do because we have now emailed Cobra asking to terminate and I am worried they are going to deny my attempt to get her on my health insurance"" ? The writer is comparing the potential outcomes of terminating Cobra coverage and the potential loss of coverage for his spouse.
+
+**Conclusion:** 
+The post exhibits Loss Aversion bias, as the writer is concerned about potential losses (e.g., lack of health insurance coverage) and is hesitant to take action that might lead to these losses. The writer's fear of losing coverage and his consideration of maintaining the status quo (Cobra coverage) to avoid potential losses demonstrate Loss Aversion. The intensity is Mid, as multiple traits are present, but not all with high weights."
+15q230w,CHB12312,"Qualifying Life Event Question
+
+Does the birth of a child qualify as a life event to open up a special enrollment period for my wife AND the child, or just to the child?
+
+I am trying to figure out if we can use the birth of our child to change my wife to my employers insurance since she is currently on COBRA and apparently terminating Cobra coverage does not qualify as a “life event”. I don’t want to be stuck paying COBRA premiums until the open enrollment period",No,None,"** The post is informational and does not relate to a personal investment decision or emotional reaction to financial losses or market events.
+
+Since the post does not meet the criteria for a decision-relevant post related to investment or financial loss, there is no need to proceed to Step 2 for bias trait detection."
+15t7asp,CHB12312,"457b vs Taxable Brokerage
+
+So our combined household income is ~360k. My spouse and I plan to max out both of our employers 403b accounts, max out our HSA, and max out a back door Roth for both of us. We will likely still have a decent amount of disposable income that we don’t just want sitting around. We will plan to get around 50k in a HYSA for emergency fund/ short term things. 
+
+My question is, what should we focus on next. Here are my thoughts:
+
+1)  My spouses employer offers a 457b NON-governmental plan. This could be an additional $22,500 pre-tax dollars. However, I am concerned about it being non-governmental as we are young and it would probably be close to 25-30 years before we retire. That is a long time to have money in an account that we could potentially lose if things went south with the company. Realistically, it would probably never happen as it is a well known hospital with a current bond rating of AA, but you never know… a lot can change in 25-30 years. 
+
+2) choosing a taxable brokerage account and start contributing to this post tax. We lose out on the pre-tax deductions, but at least I know it is safe and not subject to the employer staying in business
+
+What would you guys do? Please explain why. Or do I have any other options? Thanks.",Yes,Mid,"**
+
+* **Temporal references: 0.4** ? ""25-30 years before we retire"" ? The author is considering a long-term horizon, which influences their decision.
+* **Status quo bias: 0.6** ? ""at least I know it is safe and not subject to the employer staying in business"" ? The author prefers the taxable brokerage account due to its perceived safety.
+* **Fear-related emotion: 0.7** ? ""you never know... a lot can change in 25-30 years"" ? The author's concern and uncertainty about the 457b plan indicate a fear of potential losses.
+
+**Conclusion:** Loss Aversion is present, with a Mid intensity. The author is hesitant to invest in the 457b plan due to concerns about the company's stability and the potential for losses, which indicates a fear of realizing a loss. This fear drives their consideration of a taxable brokerage account as a safer alternative. While not extreme, these concerns demonstrate a clear example of Loss Aversion."
+15z9wql,CHB12312,"Questions about dependent care FSA
+
+So my spouses new employer offers a dependent care FSA. During open enrollment coming up, we were considering making this out. However, after doing some research, I feel like there is mixed opinions on this. 
+
+Our current situation: 
+We have one child in daycare (about $1400 a month) and have another child who will be starting daycare within the next few months so our daycare expenses will likely be ~$2800 a month. We make a combined gross annual income of ~370k. We plan to make out both of our 401ks, my spouses 457b, an HSA and a back door Roth for both of us. Also, we file taxes married filing jointly. 
+
+With our current circumstance, does it make sense to also max out the dependent care FSA? Is it worth the hassle? What are the pros and cons?
+
+To me it seems like it makes sense because we are spending so much on daycare and it’s some pre-tax money towards it, but like I said, I just see so many mixed thoughts and would like some clarity.",No,None,"- No traits detected. The post is informational, seeking advice on the practicality and benefits of enrolling in a dependent care FSA, without expressing emotional distress, past regrets, or biases towards holding or selling assets.
+
+**Conclusion:** The post does not exhibit Loss Aversion bias or any related intensity. It is an informational query regarding the practical considerations of a dependent care FSA, without a personal investment decision made under emotional influence or bias."
+165nhg3,CHB12312,"Career/financial change. Seeking advice on our current situation and future financial goals/situation
+
+We are transitioning to a new stage of our life financially with my spouse starting her attending physician position starting in October. Seeking advice on how we fair and any advice moving forward to help us work towards financial independence.
+
+We are currently married filing jointly. we are both in our early 30s. I make ~$135,000/year. My spouse was in residency making $70,000/year but starts an attending position in October planning to make around $230-250,0000/year after call pay/bonuses. We live in a moderate cost of living area.
+
+Mortgage: originally 330k, owe about 290k, monthly mortgage payment around $2,300
+
+We have two children. One in daycare which is about $1,400/month and our other child is about to start so we will probably pay around $2,800 a month for daycare at least for the next year until the older child goes to school (so much money :( )
+
+Other monthly costs such as utilities, food, gas, etc.
+
+My car is paid off (worth about $15,000 currently)and my spouses car has about 30k left which comes out to ~$800 month.
+
+No credit card debt
+
+I have about $150,000 in student loans and she has about $225,000 in loans. We are currently pursuing PSLF and both work for qualifying employers and are both 5 years into it. We have paid almost nothing so far due to the COVID forbearance. Likely won’t have high payments for another year and half or two due to not needing to re certify income yet. So obviously the hope is that in 5 years we will have these loans forgiven for a fraction of the cost we pay.
+
+We have a 401k with ~$90,000 and a 403b with ~$100,000
+
+Between our savings/checking about $30,000
+
+Obviously with her income increasing significantly, we plan to heavily focus on retirement investing. Going to start maxing out my 401k, her 403b, her 457b and plan to do a back door Roth for both of us. Also plan to max out HSA. This will hopefully reduce our taxable income by a lot, reduce our student loan payments, and start catching us up for saving for retirement.
+
+With the remaining money I am considering placing into a HYSA until closer to the 5 year mark to make sure that PSLF actually works. That way if for sone reason it fell through, I could dump that money on it to help pay it off.
+
+What do you guys think? Are we in a decent place financially? Do my future goals seem reasonable? Is there any changes I should make? Am I putting too much of our income towards retirement/investment accounts (I.e maybe hold off on the 457b for now or something?)
+
+I appreciate any advice.",No,None,"**
+
+After carefully analyzing the post, I did not find any evidence of Loss Aversion bias. The post is primarily informational, seeking advice on the couple's current financial situation and future goals. There is no indication of a personal investment decision made with emotion or justification.
+
+The couple is seeking advice on how to optimize their financial situation, student loan payments, and retirement investing. They mention specific financial goals, such as maxing out their 401k, 403b, and HSA, and considering a backdoor Roth IRA. However, there is no mention of holding onto losing investments, fear of losses, or reluctance to sell underperforming assets.
+
+The post does not exhibit any of the behavioral characteristics or keywords associated with Loss Aversion, such as:
+
+* Holding losses: No mention of not selling underperforming assets.
+* Temporal references: No mention of past losses justifying current decisions.
+* Comparative framing: No mention of what could have been gained or missed.
+* Status quo bias: No indication of preferring inaction to avoid loss.
+* Endowment effect: No mention of overvaluing assets due to personal attachment.
+* Fear-related emotion: No emotional discomfort or fear expressed.
+
+The couple's tone is informative, and they appear to be seeking objective advice on their financial situation. Therefore, I conclude that there is no Loss Aversion bias present in this post.
+
+**Conclusion:** The post is informational, and there is no evidence of Loss Aversion bias. The couple is seeking advice on their financial situation and future goals, but there is no indication of emotional decision-making or behavioral biases."
+16fhrfj,CHB12312,"Should we utilize a non-governmental 457b
+
+My spouse and I currently have a projected combined gross annual income of ~350k. We plan on maxing out both of our 403b, an HSA and a back-door roth for both of us. My spouses employer also offers a 457b, but it’s non governmental. 
+
+My spouses employer is a pretty major hospital system. Obviously we would like to think that nothing would ever happen to them, but we can’t help but worry about that. 
+
+I guess my question would be… do you think it’s worth the risk to take advantage of the pre-tax deductions which will also lower our taxable income? Or should we direct remaining money elsewhere such as a taxable brokerage account to be safer and not have to worry about losing our money if something bad happened to the company?
+
+Once we have a HYSA with 3-6 months of expenses saved up, should any of our additional income go anywhere else besides into additional retirement revenues?",Yes,Mid,"- **Fear-related emotion**: 0.8 ? ""we can't help but worry about that"" ? Emotional discomfort and concern about potential negative outcomes.
+- **Status quo bias**: 0.6 ? ""should we direct remaining money elsewhere... to be safer"" ? Preference for perceived safer options to avoid loss.
+- **Comparative framing**: 0.5 ? ""Or should we direct remaining money elsewhere... and not have to worry about losing our money"" ? Weighing potential gains against potential losses.
+
+**Conclusion**: Loss Aversion is present because the author exhibits fear of loss, a preference for safer options to avoid potential losses, and a comparative framing of potential gains versus losses. The intensity is classified as Mid due to the presence of multiple traits with weights between 0.4 and 0.7, indicating a moderate level of Loss Aversion bias influencing the author's decision-making process."
