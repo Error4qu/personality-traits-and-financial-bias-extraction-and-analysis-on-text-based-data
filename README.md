@@ -204,7 +204,7 @@ You are a behavioral finance expert. Analyze the following statement and determi
 ## 📬 Contact
 
 **Author:** Madhav Singh  
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/) or GitHub Issues for collaboration or queries.
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/madhav-singh-45q4w1r2t/) or GitHub Issues for collaboration or queries.
 
 ---
 
